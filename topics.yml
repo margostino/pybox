@@ -1,0 +1,3065 @@
+- name: Atmosphere
+  url: https://www.earthdata.nasa.gov/topics/atmosphere
+  description: "The atmosphere is a gaseous envelope surrounding and protecting our\
+    \ planet from the intense radiation of the Sun and serves as a key interface between\
+    \ the terrestrial and ocean cycles.Earth\u2019s atmosphere is a thin veil of gas\
+    \ surrounding the planet. Although it only extends a few hundred kilometers above\
+    \ the surface, it contains a mixture of gases, such as oxygen and nitrogen, that\
+    \ are critical for life to exist. It distributes incoming solar radiation, protecting\
+    \ life from harmful ultraviolet radiation but also driving atmospheric circulation\
+    \ and weather. The atmosphere enables the greenhouse effect, which makes Earth\
+    \ more habitable. Human activity, however, is contributing more gases, many of\
+    \ which are negatively impacting the protective nature of this vital layer. NASA\
+    \ data provide measurements on weather phenomena as well as gases within the troposphere\
+    \ (the lowest layer of the atmosphere) and stratosphere (the layer above the troposphere)\
+    \ and their effect on air quality. Data products include information about geophysical\
+    \ processes involving clouds, aerosols, precipitation, lightning, chemistry, temperature,\
+    \ radiation balance, and dynamics. Interactions of the atmosphere with land and\
+    \ ocean surfaces along with measurements of solar radiation also fall within this\
+    \ discipline."
+  subtopics:
+  - name: Aerosols
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols
+    description: Suspension of particles of condensed matter (liquid, solid, or mixed)
+      in a carrier gas (usually air). Aerosols are important in the atmosphere as
+      nuclei for the condensation of water droplets and ice crystals, as participants
+      in various chemical cycles, and as absorbers and scatterers of solar radiation,
+      thereby influencing the radiation budget of the earth-atmosphere system, which
+      in turn influences the climate on the surface of the Earth.
+    subtopics:
+    - name: Aerosol Backscatter
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols/aerosol-backscatter
+      description: Redirection of electromagnetic radiation due to the interaction
+        with molecules or particles.
+      subtopics: []
+    - name: Aerosol Optical Depth/Thickness
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols/aerosol-optical-depth-thickness
+      description: The degree to which aerosols prevent light from passing through.
+        Optical depth/thickness depends upon the physical constitution, the form,
+        and the concentration of particles.
+      subtopics:
+      - name: UV Aerosol Index
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols/aerosol-optical-depth-thickness/uv-aerosol-index
+        description: The relatively simple calculation of the Aerosol Index is based
+          on wavelength dependent changes in Rayleigh scattering in the UV spectral
+          range where ozone absorption is very small. UVAI can also be calculated
+          in the presence of clouds so that daily, global coverage is possible. This
+          is ideal for tracking the evolution of episodic aerosol plumes from dust
+          outbreaks, volcanic ash, and biomass burning.
+        subtopics: []
+    - name: Aerosol Particle Properties
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols/aerosol-particle-properties
+      description: 'Properties of aerosol particles including: compositon, size, diameter.'
+      subtopics: []
+    - name: Chemical Composition
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols/chemical-composition
+      description: ''
+      subtopics: []
+    - name: Dust/Ash/Smoke
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols/dust-ash-smoke
+      description: Solid materials suspended in the atmosphere in the form of small,
+        irregular particules, many of which are microscopic in size. Dust and Ash
+        are due to biogenic and anthropogenic sources such as volcanic eruptions,
+        salt spray, plant pollen, smoke, industrial processes, etc.
+      subtopics: []
+    - name: Organic Particles
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols/organic-particles
+      description: 'Aerosol particles consisting predominantly of organic compounds,
+        mainly C, H, O, and lesser amounts of other elements: may be biogenic or anthropogenic;
+        primary or secondary; some organic compounds in aerosols may exhibit substantial
+        light absorption.'
+      subtopics: []
+    - name: Particulate Matter
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/aerosols/particulate-matter
+      description: 'Particulate matter, also known as particle pollution or PM, is
+        a complex mixture of extremely small particles and liquid droplets. Particle
+        pollution is made up of a number of components, including acids (such as nitrates
+        and sulfates), organic chemicals, metals, and soil or dust particles. The
+        size of particles is directly linked to their potential for causing health
+        problems. EPA is concerned about particles that are 10 micrometers in diameter
+        or smaller because those are the particles that generally pass through the
+        throat and nose and enter the lungs. Once inhaled, these particles can affect
+        the heart and lungs and cause serious health effects. EPA groups particle
+        pollution into two categories: - Inhalable coarse particles, such as those
+        found near roadways and dusty industries, are larger than 2.5 micrometers
+        and smaller than 10 micrometers in diameter. - Fine particles, such as those
+        found in smoke and haze, are 2.5 micrometers in diameter and smaller. These
+        particles can be directly emitted from sources such as forest fires, or they
+        can form when gases emitted from power plants, industries and automobiles
+        react in the air.'
+      subtopics: []
+  - name: Air Quality
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality
+    description: The study of air pollutants in the atmosphere.
+    subtopics:
+    - name: Carbon Monoxide
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality/carbon-monoxide
+      description: A colorless, odorless, and very toxic gas; molecular formula CO.
+        It is found in trace quantities in the natural atmosphere, but also produced
+        by the incomplete combustion of carbonaceous gasses.
+      subtopics: []
+    - name: Emissions
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality/emissions
+      description: With respect to pollution, the discharge of gases or particles
+        from a source such as a smokestack or exhaust pipe into the atmosphere, perhaps
+        resulting in environmental pollution. With respect to radiation, the generation
+        and sending out of radiant energy.
+      subtopics: []
+    - name: Nitrogen Oxides
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality/nitrogen-oxides
+      description: The concentration of Nitrogen Oxides (NOx) in the atmosphere.
+      subtopics: []
+    - name: Particulates
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality/particulates
+      description: Fine solids or liquid droplets suspended in the air.
+      subtopics: []
+    - name: Smog
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality/smog
+      description: A natural fog contaminated by industrial pollutants, literally,
+        a mixture of smoke and fog.
+      subtopics: []
+    - name: Sulfur Oxides
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality/sulfur-oxides
+      description: The concentrations of Sulfur Dioxide (SO2) and Sulfur Trioxide
+        (SO3) in the atmosphere.
+      subtopics: []
+    - name: Tropospheric Ozone
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality/tropospheric-ozone
+      description: Ozone (O3) that is measured in the lowest 10-20 km of the Atmosphere.
+        While the maximum concentration of ozone occurs between 20-25 km, a high concentration
+        of ozone close to the Earths surface is considered a public health threat.
+      subtopics: []
+    - name: Volatile Organic Compounds
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/air-quality/volatile-organic-compounds
+      description: Organic compounds (e.g. ethylene, propylene, benzene, styrene,
+        acetone) which evaporate readily and contribute to air pollution directly
+        or through chemical or photochemical reactions to produce secondary air pollutants.
+      subtopics: []
+  - name: Atmospheric Chemistry
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry
+    description: Measurements of chemical constituents in the atmosphere including
+      the major (non-H2O) greenhouse gases (CO2, CH4, CFC, N2O).
+    subtopics:
+    - name: Carbon And Hydrocarbon Compounds
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/carbon-and-hydrocarbon-compounds
+      description: Carbon (C) is the 12th element in the periodic table. Carbon is
+        one of the most versatile elements and combines itself with many other elements
+        to form a huge variety of organic compounds including hydrocarbons and their
+        derivitives. Hydrocarbons are organic molecules consisting of carbon and hydrogen,
+        but the term is often applied to derivitives of hydrocarbons consisting of
+        oxygen, halogens, etc. Hydrocarbons can occur from both natural and anthropogenic
+        emissions.
+      subtopics:
+      - name: Atmospheric Carbon Dioxide
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/carbon-and-hydrocarbon-compounds/atmospheric-carbon-dioxide
+        description: One of the major greenhouse gases. Atmospheric carbon dioxide
+          is caused mainly by the burning of fossil fuels and deforestation. The chemical
+          formula for carbon dioxide is CO2. Long-term measurements of CO2 in the
+          atmosphere are conducted at Manua Loa, Hawaii and several international
+          monitoring stations around the world.
+        subtopics: []
+      - name: Atmospheric Carbon Monoxide
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/carbon-and-hydrocarbon-compounds/atmospheric-carbon
+        description: Atmospheric Carbon Monoxide (CO) is a toxic, odorless, colorless
+          gas produced during fossil fuel or biomass burning. It is one of the longest-lived,naturally
+          occurring atmospheric carbon compounds. The recent change in tropospheric
+          CO content may portend a change in the balance between oxidants and reductants
+          in the atmosphere.
+        subtopics: []
+      - name: Methane
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/carbon-and-hydrocarbon-compounds/methane
+        description: Methane (CH4) is a colorless, odorless, flammable, greenhouse
+          gas. It is released naturally into the air from marshes, swamps, rice fields,
+          ruminant animals (such as cattle), and sewage sludge. CH4 is also released
+          from methane-producing bacteria (methanogens) that live in anaerobic places.
+          [Solar Energy; v52n6; 467-477; 1994.] [Air, The Nature of Atmosphere and
+          the Climate; Michael Allaby; pages 39,40; 1992; Facts on File; New York]
+          [Dictionary of Science; R.K. Barnhart; page 398; 1986; Houghton Mifflin
+          Company; Boston.]
+        subtopics: []
+    - name: Hydrogen Compounds
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/hydrogen-compounds
+      description: Hydrogen (H) is the lightest and most abundant chemical element.
+        It is only found in trace quantities in the atmosphere.
+      subtopics: []
+    - name: Nitrogen Compounds
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/nitrogen-compounds
+      description: Nitrogen (N) is the most abundant constituent of the atmosphere
+        (78.09%). Nitrogen enters the atmosphere from volcanoes, and from the decay
+        of organic matter. It is removed from the atmosphere by nitrogen-fixing bacteria.
+        Nitrogen compounds are very reactive and play integral roles in the production
+        and destruction of ozone in the atmosphere.
+      subtopics:
+      - name: Nitric Oxide
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/nitrogen-compounds/nitric-oxide
+        description: Nitric oxide (NO) is a colorless gas, the most common form of
+          nitrogen emitted into the atmosphere, either by fuel combustion or due to
+          natural emissions. Nitric oxide is interconverted with nitrogen dioxide
+          fairly readily in the atmosphere, resulting in catalytic cycles leading
+          to ozone formation in the troposphere and ozone loss in the stratosphere.
+        subtopics: []
+      - name: Nitrogen Dioxide
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/nitrogen-compounds/nitrogen-dioxide
+        description: A reddish-brown, highly poisonous gas, with the chemical formula
+          NO2.
+        subtopics: []
+      - name: Nitrogen Oxides
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/nitrogen-compounds/nitrogen-oxides
+        description: Nitrogen Oxides - NOx (pronounced nox) are produced from high
+          temperature combustion in air. They are nitrogen oxide and nitrogen dioxide.
+          [Science News; v146; 260-262; 1994] [Science; v242;555-558;1988.]
+        subtopics: []
+      - name: Nitrous Oxide
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/nitrogen-compounds/nitrous-oxide
+        description: Nitrous oxide (N2O) is a by-product of biological activity of
+          a symbiotic bacteria living in leguminous plant roots. This is a principal
+          greenhouse gas that absorbs in the infrared wavelength region and unfortunately
+          falls in an IR window between IR absorbing features of water and carbon
+          dioxide (a characteristic of all the trace greenhouse gases with significant
+          radiative forcing). It is also laughing gas used by medicine as a gentle
+          general anesthetic. [Nature;v335;528-529;1988] [Atmospheric sulfur and nitrogen
+          oxides;George Hidy;p13;1986;Academic press; New York]
+        subtopics: []
+      - name: Peroxyacetyl Nitrate
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/nitrogen-compounds/peroxyacetyl-nitrate
+        description: Peroxyacetyl nitrate is an unstable, highly oxygenated compound
+          that exists only in the atmosphere. It is a key intermediate in the formation
+          of the air pollutant ozone.
+        subtopics: []
+    - name: Oxygen Compounds
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/oxygen-compounds
+      description: Oxygen (O) (and molecular oxygen (O2)) is the second most abundant
+        species in the atmosphere. The abundance of O2 remains fairly constant in
+        the atmosphere up to about 80km where it photodissociates to atomic oxygen.
+        Atomic oxygen is formed from the photolysis of molecular oxygen (O2), ozone
+        (O3), or nitrogen dioxide (NO2) in the atmosphere. Below about 40 km, atomic
+        oxygen recombines with O2 to form ozone. Above 40 km, oxygen can participate
+        in other chemical reactions that cause the destruction of ozone.
+      subtopics:
+      - name: Atmospheric Ozone
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/oxygen-compounds/atmospheric-ozone
+        description: "Atmospheric Ozone is one of the most important trace gases in\
+          \ our atmosphere that both benefits and harms life on Earth. High ground-level\
+          \ ozone amounts contribute to poor air quality, adversely affecting human\
+          \ health, agricultural productivity, and forested ecosystems. Ozone absorbs\
+          \ infrared radiation, and is most potent as a greenhouse gas in the cold\
+          \ upper troposphere located 8\u201315 km above the surface. In the stratosphere,\
+          \ between approximately 15 and 50 km above the Earth\u2019s surface, a layer\
+          \ rich in ozone serves as a \u201Csunscreen\u201D for the world by shielding\
+          \ the Earth\u2019s surface from harmful ultraviolet radiation. This absorption\
+          \ of solar energy also affects atmospheric circulation patterns and thus\
+          \ influences weather around the globe. Moreover, throughout the atmosphere,\
+          \ ozone is the key ingredient that initiates chemical cleansing of the atmosphere\
+          \ of various pollutants, such as carbon monoxide and methane, among others,\
+          \ which could otherwise accumulate to harmful levels or exert a stronger\
+          \ influence on climate. Therefore, changes to ozone anywhere in the atmosphere\
+          \ can have major impacts on the Earth."
+        subtopics:
+        - name: Ozone Profiles
+          url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/oxygen-compounds/atmospheric-ozone/ozone-profiles
+          description: A vertical representation of the amount of ozone.
+          subtopics: []
+        - name: Ozone Surface
+          url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/oxygen-compounds/atmospheric-ozone/ozone-surface
+          description: Refers to the presence of ozone at the Earths surface.
+          subtopics: []
+    - name: Sulfur Compounds
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/sulfur-compounds
+      description: Sulfur is the fourteenth most abundant element in the Earths crust.
+        Sulfur is consistently exchanged between the lithosphere, biopsphere, hydrosphere,
+        and atmosphere. Sulfur in the atmosphere, in both gaseous and aerosol form,
+        has imapcts on regional and global chemistry, climate change, and the health
+        of living organisms. Sulfur gases can also affect stratospheric chemistry.
+        Carbonyl sulfide (OCS) and volcanic emissions may affect Earths radiation
+        budget and climate as well as ozone destriction in the stratosphere.
+      subtopics:
+      - name: Sulfur Dioxide
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/sulfur-compounds/sulfur-dioxide
+        description: Sulfur dioxide (SO2) is a non-inflammable colorless gas. SO2
+          is usually oxidized by ozone and hydrogen peroxide to form sulfur trioxide,
+          a secondary pollutant that is extremely soluble in water. Droplets of sulfuric
+          acid (acid rain) are formed when sulfur oxides are present in the atmosphere.
+          The production of SO2 originating from coal-fired power plants and other
+          fossil fuel combustion is largely responsible for the damage caused by acid
+          rain. Volcanic eruptions also provide a sourceof sulfur dioxide in the atmosphere
+          but are insignificant when compared to anthropogenic sources.
+        subtopics: []
+    - name: Trace Gases/Trace Species
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-chemistry/trace-gases-trace-species
+      description: Trace gases in the atmosphere that do not occur in large quantities
+        but are significant to life on Earth or are important constituents of the
+        chemical cycles in the atmosphere. [Journal of American Hygienist Association;
+        v54; 639-46; 1993.] [Atmospheric Environment B; v27B; 275-82; 1993.]
+      subtopics: []
+  - name: Atmospheric Pressure
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-pressure
+    description: The pressure exerted by the atmosphere as a consequence of gravitational
+      attraction exerted upon the column of air lying directly above the point in
+      question.
+    subtopics:
+    - name: Air Mass/Density
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-pressure/air-mass-density
+      description: "Air mass/density is a fundamental property of atmosphere. Mixture\
+        \ of gases forming Earths atmosphere, consisting of nitrogen (\u223C78%),\
+        \ oxygen (\u223C21%), water vapor, and other trace gases such as carbon dioxide,\
+        \ helium, argon, ozone, or various pollutants. The concentration of water\
+        \ vapor is very variable, being a strong function of temperature and, hence,\
+        \ altitude in the atmosphere. Dry air is referred to as air from which measurable\
+        \ amounts of water vapor have been physically removed. Pure, dry air has a\
+        \ density of 1.293 kg m\u22123 at a temperature of 273 K and a pressure of\
+        \ 101.325 kPa. Apart from the variability of water vapor, the composition\
+        \ of air is essentially constant to an altitude of at least 50 km."
+      subtopics: []
+    - name: Atmospheric Pressure Measurements
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-pressure/atmospheric-pressure-measurements
+      description: The force exerted per unit of area by the atmosphere as a consequence
+        of gravitational attraction upon the column of air lying directly above the
+        point in question.
+      subtopics: []
+    - name: Gravity Wave
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-pressure/gravity-wave
+      description: A wave disturbance in which buoyancy acts as the restoring force
+        on parcels displaced from hydrostatic equilibrium.
+      subtopics: []
+    - name: Planetary/Rossby Waves
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-pressure/planetary-rossby-waves
+      description: A wave on a uniform current in a two-dimensional nondivergent fluid
+        system, rotating with varying angle speed about the local vertical (beta plane).
+      subtopics: []
+    - name: Surface Pressure
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-pressure/surface-pressure
+      description: In meteorology, the atmospheric pressure at a given location on
+        the earths surface.
+      subtopics: []
+  - name: Atmospheric Radiation
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation
+    description: Radiation budget refers to the difference between the absorbed solar
+      radiation and the net infrared radiation. The radiation budget takes into account
+      the sum of all radiation, transferred in all directions, through the Earths
+      atmosphere and to and from space. The radiation budget (or radiation balance)
+      controls the Earths temperature and rainfall.
+    subtopics:
+    - name: Airglow
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/airglow
+      description: A faint luminescence of the night sky originating in photochemical
+        reactions in the upper atmosphere. Also referred to as geocoronal emission.
+      subtopics: []
+    - name: Earth Radiation Budget
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/earth-radiation-budget
+      description: 'The Earth Radiation Budget is the balance between incoming energy
+        from the sun and the outgoing longwave (thermal) and reflected shortwave energy
+        from the Earth. [Source: Department of Marine and Coastal Sciences, Rutgers
+        University, https://marine.rutgers.edu/cool/education/class/yuri/erb.html]'
+      subtopics: []
+    - name: Incoming Solar Radiation
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/incoming-solar-radiation
+      description: In general, solar radiation received at the earths surface. The
+        amount of direct solar radiation incident upon a unit horizontal surface at
+        a specific level on or above the surface of the earth. Incoming solar radiation
+        is solar radition that has not been scattered or absorbed.
+      subtopics: []
+    - name: Longwave Radiation
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/longwave-radiation
+      description: Longwave radiation is radiation with wavelengths longer than 4
+        micros. Also referred to as infrared radiation or terrestrial radiation.
+      subtopics: []
+    - name: Radiative Forcing
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/radiative-forcing
+      description: A change imposed upon the climate system which modifies the radiative
+        balance of that system. The causes of such a change may include changes in
+        the sun, clouds, ice, greenhouse gases, volcanic activity, and other agents.
+        Radiative forcing is often specified as the net change in energy flux at the
+        troposphere (watts per square meter). Radiative forcing may sometimes be referred
+        to as external forcing or perturbations of the climate.
+      subtopics: []
+    - name: Reflectance
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/reflectance
+      description: Ratio of the intensity of reflected radiation to that of the incident
+        radiation on a surface.
+      subtopics:
+      - name: Top Of Atmosphere (TOA) Reflectance
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/reflectance/top-atmosphere-toa-reflectance
+        description: 'Measurement across the solar irradiance spectrum and not a particular
+          band or wavelength in general, but in practice its based on the particular
+          bands of the sensor. Example: Generating TOA Reflectance for band 1, band
+          2, etc. The keyword doesnt inherently cover a set wavelength or band.'
+        subtopics: []
+    - name: Shortwave Radiation
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/shortwave-radiation
+      description: Shortwave radiation is radiation at wavelengths shorter than 4
+        microns. Sometimes called the solar radiation. Usually radiation in the visible
+        and near-infrared wavelengths.
+      subtopics: []
+    - name: Solar Irradiance
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/solar-irradiance
+      description: Solar irradiance at the top of the atmosphere on a plane normal
+        to the incident radiation, and at the mean distance of the Earth from the
+        Sun. Solar irradiance is also referred to as the solar constant. In satellite
+        remote sensing, the solar irradiance is used as an onboard calibrartion of
+        visible band sensors. Some climate studies suggest that small variations in
+        the solar irradiance associated with solar activity over days to decades may
+        have an effect the Earths climate.
+      subtopics: []
+    - name: Solar Radiation
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/solar-radiation
+      description: Solar radiation is the total electromagnetic radiation emitted
+        by the Sun. Also could include insolation, direct solar radiation, diffuse
+        radiation, solar irradiance, and shortwave radiation.
+      subtopics: []
+    - name: Ultraviolet Radiation
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-radiation/ultraviolet-radiation
+      description: Electromagnetic radiation of shorter wavelength than visible radiation
+        but longer than x-rays. Radiation in the interval 10 to 4000 angstroms. UV
+        radiation from the sun is responsible for many photochemical ractions in the
+        upper atmosphere especially the formation of ozone. UV-B radiation in the
+        range 280-320 nm can possibly have serious health effects on humans and animals.
+      subtopics: []
+  - name: Atmospheric Temperature
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-temperature
+    description: A measure of temperature at different levels of the Earths atmosphere.
+    subtopics:
+    - name: Surface Temperature
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-temperature/surface-temperature
+      description: In meteorology, the temperature of the ambient air near the surface
+        of the earth, almost invariably determined by a thermometer in an instrument
+        shelter.
+      subtopics:
+      - name: Air Temperature
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-temperature/surface-temperature/air-temperature
+        description: The temperature indicated by a thermometer exposed to the air
+          in a place sheltered from direct solar radiation.
+        subtopics: []
+      - name: Boundary Layer Temperature
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-temperature/surface-temperature/boundary-layer-temperature
+        description: Air temperature measured within the the bottom layer (atmospheric
+          boundary layer) of the troposphere that is in contact with the surface of
+          the earth.
+        subtopics: []
+    - name: Upper Air Temperature
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-temperature/upper-air-temperature
+      description: Temperature is defined, in general, as the degree of hotness or
+        coldness measured on some definite temperature scale by means of any of various
+        types of thermometers;In meteorology, a profile is defined as a graph of the
+        value of a scalar quantity versus a horizontal, vertical, or time scale. It
+        usually refers to a vertical representation.
+      subtopics:
+      - name: Boundary Layer Temperature
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-temperature/upper-air-temperature/boundary-layer-temperature
+        description: Air temperature measured within the the bottom layer (atmospheric
+          boundary layer) of the troposphere that is in contact with the surface of
+          the earth.
+        subtopics: []
+  - name: Atmospheric Water Vapor
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-water-vapor
+    description: (Also called aqueous vapor, moisture.) Water substance in vapor form;
+      one of the most important of all constituents of the atmosphere.Air in motion
+      relative to the surface of the earth.
+    subtopics:
+    - name: Water Vapor Profiles
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-water-vapor/water-vapor-profiles
+      description: In meteorology, a profile is defined as a graph of the value of
+        a scalar quantity versus a horizontal, vertical, or time scale. It usually
+        refers to a vertical representation.
+      subtopics: []
+  - name: Atmospheric Winds
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-winds
+    description: Air in motion relative to the surface of the earth.
+    subtopics:
+    - name: Surface Winds
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-winds/surface-winds
+      description: The wind measured at a surface observing station.
+      subtopics:
+      - name: Wind Speed
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-winds/surface-winds/wind-speed
+        description: Ratio of the distance covered by the air to the time taken to
+          cover it. The instantaneous speed corresponds to the case of an infinitely
+          small time interval. The mean speed corresponds to the case of a finite
+          time interval. It is one component of wind velocity, the other being wind
+          direction).
+        subtopics: []
+    - name: Wind Dynamics
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-winds/wind-dynamics
+      description: Measurement of forces within the Earths Atmosphere associated with
+        wind.
+      subtopics:
+      - name: Convection
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-winds/wind-dynamics/convection
+        description: In meteorology, atmospheric (wind) motions that are predominently
+          vertical, resulting in vertical transport and mixing of atmospheric properties.
+        subtopics: []
+  - name: Clouds
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds
+    description: A visible aggregate of minute water droplets and/or ice crystals
+      in the atmosphere above the Earths surface.
+    subtopics:
+    - name: Cloud Dynamics
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-dynamics
+      description: Dynamics and physics that underlie clouds.
+      subtopics: []
+    - name: Cloud Properties
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-properties
+      description: Measurements of various microphysical cloud properties.
+      subtopics:
+      - name: Cloud Fraction
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-properties/cloud-fraction
+        description: is the percentage of each pixel in satellite imagery or each
+          gridbox in a weather or climate model that is covered with clouds. A cloud
+          fraction of one means the pixel is completely covered with clouds, while
+          a cloud fraction of zero represents a totally cloud free pixel.
+        subtopics: []
+      - name: Cloud Height
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-properties/cloud-height
+        description: In weather observations, the height of the cloud base above local
+          terrain. In satellite remote sensing, cloud height is often referred to
+          as the height of the cloud top above local terrain or above mean sea level.
+          Also can be defined as the vertical distance from the cloud base to the
+          cloud top; more commonly referred to as the thickness or depth of the cloud.
+        subtopics: []
+      - name: Cloud Top Pressure
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-properties/cloud-top-pressure
+        description: Atmospheric pressure observed at the top of a cloud.
+        subtopics: []
+      - name: Cloud Top Temperature
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-properties/cloud-top-temperature
+        description: Atmospheric temperature observed at the top of a cloud.
+        subtopics: []
+    - name: Cloud Radiative Transfer
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-radiative-transfer
+      description: The physics and mathematics of how radiation passes through a medium
+        that may contain any combination of scatterers, absorbers, and emitters.
+      subtopics:
+      - name: Cloud Radiative Forcing
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-radiative-transfer/cloud-radiative-forcing
+        description: The effect that clouds have on the global radiation budget.
+        subtopics: []
+      - name: Cloud Reflectance
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-radiative-transfer/cloud-reflectance
+        description: Ratio of the intensity of reflected radiation to that of the
+          incident radiation on a cloud.
+        subtopics: []
+    - name: Cloud Types
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/cloud-types
+      description: (Also known as cloud genus) The main characteristic form of a cloud
+        used in its indentification.
+      subtopics: []
+    - name: Convective Clouds/Systems (Observed/Analyzed)
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/convective-clouds-systems-observed-analyzed
+      description: Definition unavailable
+      subtopics:
+      - name: Mesoscale Convective Complex
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/convective-clouds-systems-observed-analyzed/mesoscale-convective-complex
+        description: "(Abbreviated MCC.) A subset of mesoscale convective systems\
+          \ (MCS) that exhibit a large, circular (as observed by satellite), long-lived,\
+          \ cold cloud shield. The cold cloud shield must exhibit the following physical\
+          \ characteristics. Size: A - Cloud shield with continuously low infrared\
+          \ (IR) temperature \u2264 -32\xB0C must have an area \u2265 105 km2; and\
+          \ B - Interior cold cloud region with temperature \u2264 -52\xB0C must have\
+          \ an area \u2265 0.5 X 105 km2. Initiate: Size definitions A and B are first\
+          \ satisfied Duration: Size definitions A and B must be met for a period\
+          \ \u2265 6 h. Maximum extent: Contiguous cold cloud shield (IR temperature\
+          \ \u2264 -33\xB0C) reaches maximum size. Shape: Eccentricity (minor axis/major\
+          \ axis) \u2265 0.7 at time of maximum extent. Terminate: Size definitions\
+          \ A and B no longer satisfied. Alternatively, a dynamical definition of\
+          \ an MCC requires that the system have a Rossby number of order 1 and exhibit\
+          \ a horizontal scale comparable to the Rossby radius of deformation. In\
+          \ midlatitude MCS environments, the Rossby radius of deformation is about\
+          \ 300 km."
+        subtopics: []
+      - name: Tropical Oceanic Cloud Systems
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/convective-clouds-systems-observed-analyzed/tropical-oceanic-cloud-systems
+        description: Tropical oceanic cloud systems, which are recognized as an essential
+          component of the global climate system, are complex phenomena in geophysical
+          flows due to the vast range of scales of motion involved and the nonlinearity
+          of interactions among the attendant physical processes (e.g., phase changes
+          of water, cloud-interactive radiation, turbulence and surface fluxes) .
+          Cloud systems directly couple dynamical and hydrological processes in the
+          atmosphere through the release of latent heat of condensation and evaporation,
+          through precipitation, and through the vertical redistribution of sensible
+          heat, moisture and momentum. They have an equally important effects on the
+          large-scale radiation budget, through the reflection, absorption and emission
+          of radiation, and the surface energy budget, through the modification of
+          net radiative fluxes and net heat fluxes at the ocean surface.
+        subtopics: []
+    - name: Stratospheric Clouds (Observed/Analyzed)
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/stratospheric-clouds-observed-analyzed
+      description: Definition unavailable
+      subtopics: []
+    - name: Tropospheric/Low Level Clouds (Observed/Analyzed)
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/tropospheric-low-level-clouds-observed-analyzed
+      description: Definition unavailable
+      subtopics:
+      - name: Fog
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/clouds/tropospheric-low-level-clouds-observed-analyzed/fog
+        description: A visible aggregate of minute water droplets suspended in the
+          atmosphere close to the ground; a cloud in contact with the earths surface.
+        subtopics: []
+  - name: Precipitation
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/precipitation
+    description: All liquid or solid phase aqueous particles that originate in the
+      atmosphere and fall to the earths surface.
+    subtopics:
+    - name: Precipitation Amount
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/precipitation/precipitation-amount
+      description: The amount of precipitation collected and measured at a weather
+        observing site.
+      subtopics: []
+    - name: Precipitation Anomalies
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/precipitation/precipitation-anomalies
+      description: The deviation of the amount of precipitation falling in a given
+        region over a specified period from the long-term average value for the same
+        region.
+      subtopics: []
+    - name: Precipitation Rate
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/precipitation/precipitation-rate
+      description: The amount of precipitation that is collected over a specific time
+        period; usually measured in inches/hour or millimeters/hour.
+      subtopics: []
+    - name: Snow Water Equivalent
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/precipitation/snow-water-equivalent
+      description: The water content obtained from melting accumulated snow.
+      subtopics: []
+    - name: Total Surface Precipitation Rate
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/precipitation/total-surface-precipitation-rate
+      description: ''
+      subtopics: []
+  - name: Weather Events
+    url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events
+    description: The study of significant weather events.
+    subtopics:
+    - name: Droughts
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/droughts
+      description: A period of abnormally dry weather sufficiently long enough to
+        cause a serious hydrological imbalance.
+      subtopics:
+      - name: Drought Severity
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/droughts/drought-severity
+        description: Drought severity is a relative term that broadly refers to how
+          intense a drought is considered to be. Drought severity can be measured
+          through any number of physical indicators, such as rainfall or streamflow,
+          but it can also be assessed through impacts to other interdependent systems
+          given that drought affects water supply, agriculture, wildfire, and more.
+          Drought frequency, duration, and severity are often used together as a means
+          to describe and evaluate drought conditions in a given area (i.e., how often
+          an area is affected by drought, how long is it affected, and how severely
+          it is affected).
+        subtopics: []
+    - name: Extratropical Cyclones
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/extratropical-cyclones
+      description: Sometimes called extratropical low, extratropical storm. Any cyclonic-scale
+        storm that is not a tropical cyclone, usually referring only to the migratory
+        frontal cyclones of middle and high latitudes.
+      subtopics: []
+    - name: Fog
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/fog
+      description: A visible aggregate of minute water droplets suspended in the atmosphere
+        close to the ground; a cloud in contact with the earths surface.
+      subtopics: []
+    - name: Freeze/Frost
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/freeze-frost
+      description: The condition that exists when, over a widespread area, the surface
+        temperature of the air remains below freezing 0 C (32 F) for a sufficient
+        amount of time to constitute the characteristic feature of the weather. A
+        freeze is a term used for the condition when vegetation is injured by these
+        low air temperatures, regardless if frost were deposited.
+      subtopics: []
+    - name: Hail Storms
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/hail-storms
+      description: Any storm that produces hailstones that fall to the ground; usually
+        used when the amount or size of the hail is considered significant.
+      subtopics: []
+    - name: Heat Wave
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/heat-wave
+      description: "(Also called hot wave, warm wave.) A period of abnormally and\
+        \ uncomfortably hot and usually humid weather. To be a heat wave such a period\
+        \ should last at least one day, but conventionally it lasts from several days\
+        \ to several weeks. In 1900, A. T. Burrows more rigidly defined a hot wave\
+        \ as a spell of three or more days on each of which the maximum shade temperature\
+        \ reaches or exceeds 90\xB0F. More realistically, the comfort criteria for\
+        \ any one region are dependent upon the normal conditions of that region.\
+        \ In the eastern United States, heat waves generally build up with southerly\
+        \ winds on the western flank of an anticyclone centered over the southeastern\
+        \ states, the air being warmed by passage over a land surface heated by the\
+        \ sun."
+      subtopics: []
+    - name: Lightning
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/lightning
+      description: Lightning is a transient, high-current electric discharge with
+        pathlengths measured in kilometers.
+      subtopics: []
+    - name: Monsoons
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/monsoons
+      description: It was first applied to the winds over the Arabian Sea, which blow
+        for six months from northeast and for six months from southwest, but it has
+        been extended to similar winds in other parts of the world. Even in Europe
+        the prevailing west to northwest winds of summer have been called the European
+        monsoon. The primary cause is the much greater annual variation of temperature
+        over large land areas compared with neighboring ocean surfaces, causing an
+        excess of pressure over the continents in winter and a deficit in summer,
+        but other factors such as the relief features of the land have a considerable
+        effect. The monsoons are strongest on the southern and eastern sides of Asia,
+        the largest landmass, but monsoons also occur on the coasts of tropical regions
+        wherever the planetary circulation is not strong enough to inhibit them. They
+        have been described in Spain, northern Australia, Africa except the Mediterranean,
+        Texas, and the western coasts of the United States and Chile. In India the
+        term is popularly applied chiefly to the southwest monsoon and, by extension,
+        to the rains which it brings.
+      subtopics: []
+    - name: Rain Storms
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/rain-storms
+      description: A storm accompanied by rain.
+      subtopics: []
+    - name: Snow Storms
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/snow-storms
+      description: A storm characterized by a fall of frozen precipitation in the
+        form of snow.
+      subtopics: []
+    - name: Subtropical Cyclones
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/subtropical-cyclones
+      description: "A cyclone in tropical or subtropical latitudes (from the equator\
+        \ to about 50\xB0N) that has characteristics of both tropical cyclones and\
+        \ midlatitude (or extratropical) cyclones."
+      subtopics: []
+    - name: Tornadoes
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/tornadoes
+      description: A small mass of air (whirlwind) that spins rapidly about an almost
+        vertical axis and forms a funnel cloud that contacts the ground; appears as
+        a pendant from a cumulonimbus cloud and is potentially the most destructive
+        of all weather systems.
+      subtopics: []
+    - name: Tropical Cyclones
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/tropical-cyclones
+      description: The general term for a cyclone that originates over the tropical
+        oceans.
+      subtopics:
+      - name: Tropical Storm Track
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/tropical-cyclones/tropical-storm-track
+        description: Tropical Storm path, route, or course.
+        subtopics: []
+    - name: Weather/Climate Advisories
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/weather-climate-advisories
+      description: Meteorological information issued when actual or expected weather
+        conditions do not constitute a serious hazard but may cause inconvenience
+        or concern. Examples of weather advisories include small craft advisories
+        or winter weather advisories. Compare warning, watch.
+      subtopics:
+      - name: Weather Forecast
+        url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/weather-climate-advisories/weather-forecast
+        description: An assessment of the future state of the atmosphere with respect
+          to precipitation, clouds, winds, and temperature. Such assessments are usually
+          made by government or private meteorologists, often using numerical simulations.
+          Such simulations are the result of representing the atmosphere mathematically
+          as a fluid in motion. See also numerical weather prediction.
+        subtopics: []
+    - name: Wind Storms
+      url: https://www.earthdata.nasa.gov/topics/atmosphere/weather-events/wind-storms
+      description: A storm with high winds or violent gusts but little or no rain.
+      subtopics: []
+- name: Biosphere
+  url: https://www.earthdata.nasa.gov/topics/biosphere
+  description: The biosphere encompasses all life on Earth and extends from root systems
+    to mountaintops and all depths of the ocean. It is critical for maintaining species
+    diversity, regulating climate, and providing numerous ecosystem functions.The
+    biosphere is made up of the parts of Earth where life exists. It extends from
+    the deep ocean floor, to lush rainforests, and high mountaintops. This important
+    sphere supports almost every aspect of human well-being and distinguishes Earth
+    from other planets in our solar system. NASA data have changed the way we study
+    life on Earth. Remote sensing and field-based data from NASA and partner federal
+    agencies provide opportunities for biological and ecological research and applications.
+    They have been used to assess the health of forests, detect tree cover loss, and
+    prevent the spread of invasive species. Data on vegetation health, primary productivity,
+    evapotranspiration, forest structure, and ocean chlorophyll provide insight into
+    the health and productivity of the biosphere. NASA data can also can be used to
+    study the suitability of an environment for different species as well as species
+    distribution within a habitat.
+  subtopics:
+  - name: Ecological Dynamics
+    url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics
+    description: Describes coupled dynamics of human-ecological systems
+    subtopics:
+    - name: Ecosystem Functions
+      url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/ecosystem-functions
+      description: Ecosystem functions are the physical, chemical, biological, and
+        man-made processes that contribute to the self-maintenance of an ecosystem.
+      subtopics:
+      - name: Biogeochemical Cycles
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/ecosystem-functions/biogeochemical-cycles
+        description: A Biogeochemical cycle is the movement of chemical elements from
+          organism to physical environment to organism in more or less circular pathways.
+        subtopics: []
+      - name: Biomass Dynamics
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/ecosystem-functions/biomass-dynamics
+        description: Mass of biological material. Usually the total mass of a particular
+          group or category; for example, the biomass of producer organisms.
+        subtopics: []
+      - name: Carbon Sequestration
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/ecosystem-functions/carbon-sequestration
+        description: Carbon sequestration is the process through which CO2 from the
+          atmosphere is absorbed by various carbon sinks. Types of sinks include agricultural
+          sinks, forests, geologic formations, oceanic sinks,as well as roots and
+          within the soil.
+        subtopics: []
+      - name: Food-web Dynamics
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/ecosystem-functions/food-web-dynamics
+        description: Food-web Dynamics denotes the complex network of interconnected
+          food chains. Food chains are innumberable pathways where one organism is
+          eaten by a second, which is eaten by a third.
+        subtopics: []
+      - name: Nutrient Cycling
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/ecosystem-functions/nutrient-cycling
+        description: Nutrient cycling is the repeated pathway of particular nutrients
+          or elements from the environment through one or more organisms back to the
+          environment. Nutrient cycles include the carbon cycle, the nitrogen cycle,
+          the phosphorus cycle, and so on.
+        subtopics: []
+      - name: Primary Production
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/ecosystem-functions/primary-production
+        description: Primary production is production by green plants.
+        subtopics: []
+    - name: Fire Ecology
+      url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/fire-ecology
+      description: Branch of ecology that focuses on the origins of wildfire and their
+        relationship to the environment that surrounds it, both living and non-living.
+      subtopics:
+      - name: Fire Disturbance
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/fire-ecology/fire-disturbance
+        description: 'Ecological disturbance (fire): an event or force, of nonbiological
+          or biological origin, that brings about mortality to organisms and changes
+          in their spatial patterning in the ecosystems they inhabit. Disturbance
+          plays a significant role in shaping the structure of individual populations
+          and the character of whole ecosystems.'
+        subtopics: []
+      - name: Fire Dynamics
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/fire-ecology/fire-dynamics
+        description: Describes the physical state of the fire and/or its effect. This
+          may include the time and location, duration, aerial extent, temperature,
+          radiative power, and emission products of the fire event.
+        subtopics: []
+      - name: Fire Occurrence
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/fire-ecology/fire-occurrence
+        description: Ecosystems that depend on the recurrence of fire to maintain
+          the existing balance.
+        subtopics: []
+    - name: Species/Population Interactions
+      url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/species-population-interactions
+      description: Describes the dynamics of species or populations, and how these
+        populations interact with the environment by fitting evolutionary strategies.
+      subtopics:
+      - name: Endangered Species
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/species-population-interactions/endangered-species
+        description: An endangered species is a species in imminent danger of extinction
+          throughout all or a significant portion of its range.
+        subtopics: []
+      - name: Pollinator Species
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/species-population-interactions/pollinator-species
+        description: Species which transfer pollen from an anther (the male reproductive
+          organ) to a stigma (the receptive part of the female reproductive organ),
+          either of the same flower (self-pollinator) or of a different flower of
+          the same species (cross-pollinator).
+        subtopics: []
+      - name: Population Dynamics
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecological-dynamics/species-population-interactions/population-dynamics
+        description: Population dynamics is the study of the reasons for changes in
+          population size.
+        subtopics: []
+  - name: Ecosystems
+    url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems
+    description: An ecosystem is a community of living organisms in conjunction with
+      the nonliving components of their environment (things like air, water and mineral
+      soil), interacting as a system. These biotic and abiotic components are regarded
+      as linked together through nutrient cycles and energy flows. As ecosystems are
+      defined by the network of interactions among organisms, and between organisms
+      and their environment, they can be of any size but usually encompass specific,
+      limited spaces. (although some scientists say that the entire planet is an ecosystem.
+    subtopics:
+    - name: Anthropogenic/Human Influenced Ecosystems
+      url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/anthropogenic-human-influenced-ecosystems
+      description: Pertains to terrestrial ecosystems where human activity is significantly
+        and rapidly altering the form and function. For example, we are changing the
+        chemical composition of the atmosphere, converting natural landscapes to urban
+        areas, and transporting floral and faunal species far beyond their natural
+        boundaries.
+      subtopics:
+      - name: Agricultural Lands
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/anthropogenic-human-influenced-ecosystems/agricultural-lands
+        description: Areas that are used for farming, including ranching, or land
+          that has biophysical attributes that make it suitable for agricultural use.
+        subtopics:
+        - name: Cropland
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/anthropogenic-human-influenced-ecosystems/agricultural-lands/cropland
+          description: Pertaining to areas used for the production of adapted crops
+            for harvest.
+          subtopics: []
+      - name: Urban Lands
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/anthropogenic-human-influenced-ecosystems/urban-lands
+        description: Areas that have been altered or obstructed by humans, especially
+          by structures relating to cities.
+        subtopics:
+        - name: Canal
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/anthropogenic-human-influenced-ecosystems/urban-lands/canal
+          description: Pertaining to artificial waterways used for navigation, crop
+            irrigation, water supply, or drainage.
+          subtopics: []
+    - name: Aquatic Ecosystems
+      url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/aquatic-ecosystems
+      description: The water environments, such as rivers, and oceans in which the
+        life needs of a plant or animal are supplied.
+      subtopics:
+      - name: Plankton
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/aquatic-ecosystems/plankton
+        description: Plankton refers to any community of floating or weakly swimming
+          organism;mostly microscopic, living in freshwater and saltwater habitats.
+        subtopics:
+        - name: Phytoplankton
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/aquatic-ecosystems/plankton/phytoplankton
+          description: Phytoplankton is the plant portion of the plankton, the plant
+            community in marine and freshwater situations, that floats free in the
+            water and contains many species of algae and diatoms.
+          subtopics: []
+      - name: Wetlands
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/aquatic-ecosystems/wetlands
+        description: Land consisting of marshes or swamps; saturated land.
+        subtopics:
+        - name: Estuarine Wetlands
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/aquatic-ecosystems/wetlands/estuarine-wetlands
+          description: Areas of marsh grasses and reeds along coasts and estuaries
+            where the ground is covered by high tides but drained at low tide.
+          subtopics: []
+    - name: Marine Ecosystems
+      url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems
+      description: The space used by an organism together with the other organisms
+        with which it co-exists and the landscape and climate elements that affect
+        it.
+      subtopics:
+      - name: Abyssal
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/abyssal
+        description: 'Pertaining to the biogeographic zone of the ocean bottom between
+          the bathyal and hadal zones: from depths of approximately 13,000 to 21,000
+          feet (4000 to 6500 meters).'
+        subtopics: []
+      - name: Benthic
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/benthic
+        description: Pertaining to ocean bottom as the place where an organism lives.
+        subtopics: []
+      - name: Coastal
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/coastal
+        description: Pertaining to the area of the ocean near the seashore, including
+          coastal embayments.
+        subtopics:
+        - name: Lagoon
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/coastal/lagoon
+          description: Pertaining to shallow bodies of water partially or completely
+            separated from the open ocean by barriers of sand or coral.
+          subtopics: []
+        - name: Mangrove Swamp
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/coastal/mangrove-swamp
+          description: Pertaining to tropical and subtropical swamps dominated by
+            mangrove trees.
+          subtopics: []
+        - name: SAV/Sea Grass Bed
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/coastal/sav-sea-grass-bed
+          description: Pertaining to areas of submerged aquatic vegetation (SAV) or
+            sea grasses below low-tide mark.
+          subtopics: []
+      - name: Estuary
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/estuary
+        description: The place where animals or plants live in a semi-enclosed coastal
+          embayment where fresh and saltwater mix (such as a river mouth estuary).
+        subtopics: []
+      - name: Pelagic
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/pelagic
+        description: The waters of the ocean, over the continental shelf and oceanic
+          zones.
+        subtopics: []
+      - name: Reef
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/reef
+        description: The coral reef habitat is a unique shallow water community of
+          organisms living on limestone rock that was built by some of the reef organisms.
+        subtopics:
+        - name: Coral Reef
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/marine-ecosystems/reef/coral-reef
+          description: Pertaining to a reef made up chiefly of corals, coral sands,
+            algal and other deposits, and the solid limestone resulting from their
+            consolidation.
+          subtopics: []
+    - name: Terrestrial Ecosystems
+      url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems
+      description: The dry land environment in which the life needs of a plant or
+        animal are supplied.
+      subtopics:
+      - name: Alpine/Tundra
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/alpine-tundra
+        description: Habitat found in the zone on mountain tops between permanent
+          snow and the cold limits of trees, or in arctic regions, characterized by
+          very low winter temperatures, short cool summers, permafrost below a surface
+          layer subject to summer melt, short growing season, and low precipitation.
+        subtopics:
+        - name: Arctic Tundra
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/alpine-tundra/arctic-tundra
+          description: Pertaining to tundra found north of the Arctic Circle.
+          subtopics: []
+      - name: Deserts
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/deserts
+        description: A region with a mean annual precipitation of 10 inches or less,
+          and so devoid of vegetation as to be incapable of supporting any considerable
+          population.
+        subtopics: []
+      - name: Forests
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/forests
+        description: Areas in which vegetation is dominated by trees with their crowns
+          overlapping, generally forming 60 - 100% cover.
+        subtopics:
+        - name: Boreal Forest/Tiaga
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/forests/boreal-forest-tiaga
+          description: Pertaining to subarctic forest consisting of primarily of short
+            conifer trees and characterized by intensely cold winters, short summers,
+            and high annual variation in temperature.
+          subtopics: []
+        - name: Tropical Rainforest
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/forests/tropical-rainforest
+          description: Pertaining to forests in tropical latitudes characterized by
+            high annual precipitation consisting of dense vegetation divided into
+            three distinct layers.
+          subtopics: []
+      - name: Grasslands
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/grasslands
+        description: Areas in which vegetation is dominated by perennial grasses and
+          grass-like plants, such as sedges and rushes.
+        subtopics:
+        - name: Savanna
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/grasslands/savanna
+          description: A rolling grassland scattered with shrubs and isolated trees,
+            which can be found between a tropical rainforest and desert biome. Not
+            enough rain falls on a savanna to support forests. Savannas are also known
+            as tropical grasslands
+          subtopics: []
+      - name: Islands
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/islands
+        description: Tracts of land smaller than a continent, surrounded by the water
+          of an ocean sea, lake, or stream.
+        subtopics: []
+      - name: Montane Habitats
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/montane-habitats
+        description: The zone in mountainous regions where the influence of altitude
+          (vertical relief) results in local climatic regimes that are sufficiently
+          different from those in the adjacent lowlands as to cause a complex vertical
+          climate-vegetation-soil zonation.
+        subtopics: []
+      - name: Savannas
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/savannas
+        description: An open, grassy, essentially treeless plain, especially as developed
+          in tropical or subtropical regions.
+        subtopics: []
+      - name: Wetlands
+        url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/wetlands
+        description: Wetlands is a term for a broad group of wet habitats. They are
+          transitional lands between terrestrial and aquatic ecosystems where the
+          lands may be permanently or intermittently water covered.
+        subtopics:
+        - name: Estuarine Wetlands
+          url: https://www.earthdata.nasa.gov/topics/biosphere/ecosystems/terrestrial-ecosystems/wetlands/estuarine-wetlands
+          description: Areas of marsh grasses and reeds along coasts and estuaries
+            where the ground is covered by high tides but drained at low tide.
+          subtopics: []
+  - name: Vegetation
+    url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation
+    description: Vegetation, as used, here are types of plants and vegetation structures.
+    subtopics:
+    - name: Afforestation/Reforestation
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/afforestation-reforestation
+      description: Afforestation is the establishment of trees on an area that has
+        lacked forest cover for a very long time or has never been forested. Reforestation
+        is the natural or artificial restocking (i.e., planting, seeding) of an area
+        with forest trees. Also called forest regeneration.
+      subtopics: []
+    - name: Biomass
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/biomass
+      description: Mass of biological material. Usually the total mass of a particular
+        group or category; for example, the biomass of producer organisms.
+      subtopics: []
+    - name: Canopy Characteristics
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/canopy-characteristics
+      description: 'Canopy characteristics refer to Global Change Master Directory
+        detailed variables under the variable, Canopy Characteristics: canopy height,
+        canopy position, canopy reflectance, canopy resistance, and canopy temperature.'
+      subtopics: []
+    - name: Canopy Transmittance
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/canopy-transmittance
+      description: Measurement of the light received at a photo cell in the canopy
+        of vegetation placed at fixed distances from a light source.
+      subtopics: []
+    - name: Carbon
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/carbon
+      description: Carbon is one of three important elements that compose plants.
+        The higher photosynthetic organisms need light, carbon dioxide, and water
+        and these raw materials supply the carbon, oxygen, and hydrogen that are the
+        predominant elements in the organic molecules they manufacture, as well as
+        the energy needed to drive the synthetic reactions.
+      subtopics: []
+    - name: Chlorophyll
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/chlorophyll
+      description: Chlorophyll is the green pigment in plants responsible for absorbing
+        the light energy required for photosynthesis.
+      subtopics: []
+    - name: Forest Composition/Vegetation Structure
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/forest-composition-vegetation-structure
+      description: Forest Composition refers to the tree species which make up the
+        forest. Vegetation Structure refers to the vertical arrangement of canopy
+        layers and plants of different life forms, or the horizontal variation in
+        canopy closure and canopy layers, or both. Vegetation Structure also includes
+        standing dead trees (snags) and decaying logs on the ground (coarse woody
+        debris).
+      subtopics: []
+    - name: Leaf Characteristics
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/leaf-characteristics
+      description: Pertain to the general characteristics of leaves including leaf
+        structure, arrangement, leaf shape, and leaf margin.
+      subtopics: []
+    - name: Photosynthetically Active Radiation
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/photosynthetically-active-radiation
+      description: Photosynthetically Active Radiation is the light in the whole wavelength
+        band from 400 nm (deep violet) to 700 nm (dark red) used by plants in photosynthesis.
+      subtopics: []
+    - name: Plant Characteristics
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/plant-characteristics
+      description: 'Plant characteristics refer to Global Change Master Directory
+        detailed variables under the variable, Plant Characteristics: Plant aboveground
+        biomass, plant biomass, plant blooms, plant boron concentration, plant calcium
+        concentration, plant carbon concentration, plant copper concentration, plant
+        diameter, plant diseases, plant height, plant iron concentration, plant magnesium
+        concentration, plant manganese concentration, plant nitrogen concentration,
+        plant phosphorus concentration, plant potassium concentration, plant production,
+        plant root biomass, plant sink capacity, plant sulfur concentration, plant
+        water potential, and plant zinc concentration.'
+      subtopics:
+      - name: Crop Height
+        url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/plant-characteristics/crop-height
+        description: Crop Height is defined as the height above the soil (measured
+          in cm) for individual plants.
+        subtopics: []
+    - name: Plant Phenology
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/plant-phenology
+      description: The science that treats the periodic biological phenomena with
+        relation to climate, especially seasonal changes. Phenological events are
+        stages of plant growth. From a climatological viewpoint, these phenomena serve
+        as bases for the interpretation of progress in local seasons and the climatic
+        zones, and are considered to integrate the effects of a number of bioclimatic
+        factors on rate of plant development. Phenology may be considered a branch
+        of the science of bioclimatics, the sequence of plant or crop development
+        stages through its life cycle. Growth stages may be defined by stage of physiological
+        development such as germination, first true leaf, flowering, maturity, etc.,
+        and/or by physical stage such as planting, emergence, harvest, etc.
+      subtopics: []
+    - name: Reforestation
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/reforestation
+      description: Reforestation is the replanting of trees in forests where the trees
+        have been cut down. Reforestation sometimes is undertaken in an effort to
+        reduce atmospheric carbon dioxide levels by restoring forests, which are carbon
+        sinks.
+      subtopics: []
+    - name: Solar Induced Fluorescence
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/solar-induced-fluorescence
+      description: "Solar-induced fluorescence is the glow plants emit from photosynthesis\
+        \ \u2014 the process of plant growth that includes the capture of carbon from\
+        \ the atmosphere. Areas with lower photosynthesis activity are in shown in\
+        \ light green; areas with higher photosynthesis activity are shown in dark\
+        \ green."
+      subtopics: []
+    - name: Vegetation Cover
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/vegetation-cover
+      description: Vegetation Cover is the percent of vegetation in an area.
+      subtopics: []
+    - name: Vegetation Index
+      url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/vegetation-index
+      description: An indicator that describes the greenness - the relative density
+        and health of vegetation - for each picture element, or pixel, in a satellite
+        image.
+      subtopics:
+      - name: Enhanced Vegetation Index (EVI)
+        url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/vegetation-index/enhanced-vegetation-index-evi
+        description: ''
+        subtopics: []
+      - name: Leaf Area Index (LAI)
+        url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/vegetation-index/leaf-area-index-lai
+        description: The one sided green leaf area per unit ground area in broadleaf
+          canopies, or as the projected needleleaf area per unit ground area in needle
+          canopies.
+        subtopics: []
+      - name: Normalized Difference Vegetation Index (NDVI)
+        url: https://www.earthdata.nasa.gov/topics/biosphere/vegetation/vegetation-index/normalized-difference-vegetation-index-ndvi
+        description: "An index of plant \u201Cgreenness\u201D or photosynthetic activity,\
+          \ and is one of the most commonly used vegetation indices."
+        subtopics: []
+- name: Cryosphere
+  url: https://www.earthdata.nasa.gov/topics/cryosphere
+  description: "The cryosphere encompasses the frozen parts of Earth, including glaciers\
+    \ and ice sheets, sea ice, and any other frozen body of water. The cryosphere\
+    \ plays a critical role in regulating climate and sea levels.The cryosphere encompasses\
+    \ the frozen parts of Earth, including glaciers and ice sheets, sea ice, and any\
+    \ other frozen body of water, like rivers and lakes. The cryosphere plays a critical\
+    \ role in regulating climate. Increases in ice loss from the glaciers and ice\
+    \ sheets of Antarctica, Greenland, and the rest of the Arctic are contributing\
+    \ to sea level rise, while similarly dramatic changes are occurring in the sea\
+    \ ice cover of the Arctic and Southern Oceans, changing the ocean\u2019s albedo\
+    \ or its ability to reflect the sun\u2019s energy. NASA\u2019s capabilities in\
+    \ satellite and aircraft remote sensing are critical tools for understanding changes\
+    \ to the cryosphere. NASA cryospheric data, including land ice height, ice thickness,\
+    \ glacial extent, and glacial mass, provide insight into how changes in these\
+    \ regions affect albedo, contribute to sea level rise, impact water resources\
+    \ for agriculture and human consumption, and even lead to changes in Earth\u2019\
+    s rotation."
+  subtopics:
+  - name: Frozen Ground
+    url: https://www.earthdata.nasa.gov/topics/cryosphere/frozen-ground
+    description: Soil within which the moisture has predominantly changed to ice,
+      the unfrozen portion being in vapor phase. Ice within the soil bonds (adfreezes)
+      adjacent soil particles and renders frozen ground very hard. Permanently frozen
+      ground is called permafrost. Dry frozen ground is relatively loose and crumbly
+      because of the lack of bonding ice. Frozen ground is sometimes inadvisedly called
+      frost or ground frost.
+    subtopics:
+    - name: Permafrost
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/frozen-ground/permafrost
+      description: '1. (Also called perennially frozen ground, pergelisol, permanently
+        frozen ground.) A layer of soil or bedrock at a variable depth beneath the
+        surface of the earth in which the temperature has been below freezing continuously
+        from a few to several thousands of years. Permafrost exists where the summer
+        heating fails to descend to the base of the layer of frozen ground. A continuous
+        stratum of permafrost is found where the annual mean temperature is below
+        about 5C (23F). 2. As limited in application by P. F. Svetsov, soil that is
+        known to have been frozen for at least a century. Muller, S. W., 1947: Permafrost,
+        or Permanently Frozen Ground, and Related Engineering Problems, Hare, F. K.,
+        1951: Compendium of Meteorology, p. 958, and map, p. 956.'
+      subtopics: []
+    - name: Seasonally Frozen Ground
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/frozen-ground/seasonally-frozen-ground
+      description: Ground that freezes and thaws annually.
+      subtopics: []
+  - name: Glaciers/Ice Sheets
+    url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets
+    description: Glaciers are masses of land ice, formed by the further recrystallization
+      of firn, flowing continuously from higher to lower elevations. Ice sheets are
+      a continuous sheet of land ice that covers a very large area and moves outward
+      in many directions. This type of ice mass is so thick as to mask the land surface
+      contours, in contrast to the smaller and thinner highland ice. The continental
+      glacier of Greenland is sometimes called the Inland Ice. This term is often
+      used to describe the great ice masses that characterized the ice ages.
+    subtopics:
+    - name: Ablation Zones/Accumulation Zones
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/ablation-zones-accumulation-zones
+      description: Pertaining to the reduction of a glacier due to melting and/or
+        evaporation.
+      subtopics: []
+    - name: Firn
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/firn
+      description: Rounded, well-bonded snow that is older han one year (from NSIDC
+        glossary). A permeable aggregate of small ice grains with densities greater
+        than 0.55 up to 0.82 where begins glacial ice.
+      subtopics: []
+    - name: Glacier Mass Balance/Ice Sheet Mass Balance
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/glacier-mass-balance-ice-sheet-mass-balance
+      description: Mass balance describes the net gain or loss of snow and ice through
+        a given year. It is usually expressed in terms of water gain or loss.
+      subtopics: []
+    - name: Glacier Motion/Ice Sheet Motion
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/glacier-motion-ice-sheet-motion
+      description: The rate of flow of the glacier/ice sheet over a period of time.
+      subtopics: []
+    - name: Glacier Thickness/Ice Sheet Thickness
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/glacier-thickness-ice-sheet-thickness
+      description: The difference in height between two levels in the glacier or ice
+        sheet.
+      subtopics: []
+    - name: Glacier Topography/Ice Sheet Topography
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/glacier-topography-ice-sheet-topography
+      description: Surface relief of the land. Topography usually is measured in meters
+        above sea level. The topography can be very different from one location to
+        another. Topography can be flat, or mountainous, or hilly.
+      subtopics: []
+    - name: Glaciers
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/glaciers
+      description: A mass of land ice, formed by the further recrystallization of
+        firn, flowing continuously from higher to lower elevations.
+      subtopics:
+      - name: Glacial Lake Extent
+        url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/glaciers/glacial-lake-extent
+        description: A glacial lake is a body of water with origins from glacier activity.
+          They are formed when a glacier erodes the land, and then melts, filling
+          the depression created by the glacier.
+        subtopics: []
+      - name: Glacier Runoff
+        url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/glaciers/glacier-runoff
+        description: The amount of water produced by glacial melt.
+        subtopics: []
+    - name: Ice Sheets
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/ice-sheets
+      description: A continuous sheet of land ice that covers a very large area and
+        moves outward in many directions. This type of ice mass is so thick as to
+        mask the land surface contours, in contrast to the smaller and thinner highland
+        ice. The continental glacier of Greenland is sometimes called the Inland Ice.
+        This term is often used to describe the great ice masses that characterized
+        the ice ages.
+      subtopics:
+      - name: Ice Sheet Measurements
+        url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/ice-sheets/ice-sheet-measurements
+        description: "Scientists have adopted three general approaches to ice sheet\
+          \ mass balance measurement: comparing outflow and melt to snowfall accumulation\
+          \ (the mass budget method), observing changes in glacier elevation (volume\
+          \ change or geodetic method), and detecting changes in the Earth\u2019s\
+          \ gravity field over the ice sheet (gravimetric method)."
+        subtopics: []
+    - name: Ice Shelves
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/glaciers-ice-sheets/ice-shelves
+      description: Portions of glaciers/ice sheets that are floating over the ocean.
+      subtopics: []
+  - name: Land Ice/Ocean Classification
+    url: https://www.earthdata.nasa.gov/topics/cryosphere/land-ice-ocean-classification
+    description: Refers to a land ice and ocean classification mask.
+    subtopics: []
+  - name: Sea Ice
+    url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice
+    description: Pertaining to the study of frozen seawater over the ocean surface.
+    subtopics:
+    - name: Ice Depth/Thickness
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/ice-depth-thickness
+      description: Ice depth or thickness refers to the extent of the ice below the
+        surface of the water. The term is also used in river and lake ice studies.
+        Remote sensing techniques (particularly radar and microwave) have been used
+        to estimate ice thickness as have recently declassified submarine measurements
+        of polar ice thickness.
+      subtopics: []
+    - name: Ice Extent
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/ice-extent
+      description: The minimum or maximum length of the ice or ice edge into the open
+        water. Also refers to the extent of the ice pack into the open ocean (which
+        varies seasonally).
+      subtopics: []
+    - name: Ice Growth/Melt
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/ice-growth-melt
+      description: 'Melt of the ice can occur at various stages: puddle, thaw holes,
+        dried ice, rotten ice, flodded ice, and frozen puddle. Developing sea ice
+        (or growth) takes on the following stages: New Ice, Youg Ice, First-Year Ice,
+        Old Ice. Lake Ice development goes through the following stages: New Lake
+        Ice, Thin Lake Ice, Medium Lake Ice, Thick Lake Ice, and Very Thick Lake Ice.'
+      subtopics: []
+    - name: Ice Temperature
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/ice-temperature
+      description: Measurements of the temperature of the sea ice and surrounding
+        sea surface temperature. These measurements are usually obtained from remote
+        sensing satellites.
+      subtopics: []
+    - name: Icebergs
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/icebergs
+      description: A massive piece of ice of greatly varying shape, protruding more
+        than 5m above sea-level, which has broken away from a glacier, and which may
+        be afloat or aground. Icebergs may be described as tabular, dome-shaped, sloping,
+        pinnacled, weathered or glacier bergs.
+      subtopics: []
+    - name: Pack Ice
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/pack-ice
+      description: Pack ice refers to high concentrations of sea ice. When concentrations
+        are 60% or less, then the term drift ice is used.
+      subtopics: []
+    - name: Polynyas
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/polynyas
+      description: Any non-linear shaped opening enclosed by ice. May contain brash
+        ice and/or be covered with new ice, nilas or young ice; sub-mariners refer
+        to these as skylights. Polynyas are important in the study of the energy budget
+        of the polar ocean and local and regional climatology.
+      subtopics: []
+    - name: Salinity
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/salinity
+      description: How salty the water is. Brine has a very high salinity. Fresh water
+        has a salinity of zero.
+      subtopics: []
+    - name: Sea Ice Age
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/sea-ice-age
+      description: The age of the sea ice is usually a distinction between first-year
+        and multiyear ice. Multiyear sea ice is usually thicker, has more ridges,
+        and can be more of a hinderance to ship travel than first-year ice. Microwave
+        remote sensing studies have shown that first-year sea ice has a higher emissivity
+        at the 1.55 cm wavelength than multiyear ice, thus making it possible to distinguish
+        between different ice ages from satellites. Ice age can also be qualitatively
+        determined using visible, infrared and radar wavelengths from satellites.
+      subtopics: []
+    - name: Sea Ice Elevation
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/sea-ice-elevation
+      description: Pertains to the measurement of the surface height of the sea ice.
+        In particular, sea ice elevation is measured by the radar altimeter on board
+        the NASA IceSat satellite.
+      subtopics: []
+    - name: Sea Ice Motion
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/sea-ice-motion
+      description: 'Refers to the movement and direction of ice fields or floes. Ice
+        motion processes include: diverging, compacting, and shearing.'
+      subtopics: []
+    - name: Sea Ice Volume Budget
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/sea-ice-volume-budget
+      description: ''
+      subtopics:
+      - name: Ice Growth/Melt
+        url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/sea-ice-volume-budget/ice-growth-melt
+        description: Definition unavailable
+        subtopics: []
+    - name: Snow Depth
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/sea-ice/snow-depth
+      description: Pertaining to the thickness of snow pack throughout the year.
+      subtopics: []
+  - name: Snow/Ice
+    url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice
+    description: Pertaining to the study of frozen water over the Earths surface.
+    subtopics:
+    - name: Albedo
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/albedo
+      description: Albedo is the ratio of the radiation (radiant energy or luminous
+        energy) reflected by a surface to that incident on it. Snow and cloud surfaces
+        have a high albedo, because most of the energy of the visible solar spectrum
+        is reflected. Vegetation and ocean surfaces have low albedo, because they
+        absorb a large fraction of the energy. Clouds are the chief cause of variations
+        in the Earths albedo.
+      subtopics: []
+    - name: Freeze/Thaw
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/freeze-thaw
+      description: Pertaining to the measurement, rates, geographical extent of freezing,
+        and melting of snow and ice cover.
+      subtopics: []
+    - name: Ice Depth/Thickness
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/ice-depth-thickness
+      description: Pertaining to the measurement and geographic extent of ice thickness
+        on the continental land masses.
+      subtopics: []
+    - name: Ice Extent
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/ice-extent
+      description: Pertaining to the geographical extent of ice on continental land
+        masses.
+      subtopics: []
+    - name: Ice Growth/Melt
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/ice-growth-melt
+      description: Pertaining to the measurement of ice growth/melting rates, and
+        annual changes in those rates.
+      subtopics: []
+    - name: Ice Motion
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/ice-motion
+      description: Defined as the horizontal displacement of ice over an area.
+      subtopics: []
+    - name: Lake Ice
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/lake-ice
+      description: Pertaining to the measurement, and analysis to ice formation on
+        inland bodies of salt or fresh water.
+      subtopics: []
+    - name: River Ice
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/river-ice
+      description: Pertaining to the extent, thickness, longevity, etc. of ice formations
+        that occur on river systems.
+      subtopics: []
+    - name: Snow Cover
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-cover
+      description: Pertaining to the extent, depth, and longevity of snow pack.
+      subtopics: []
+    - name: Snow Depth
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-depth
+      description: Pertaining to the thickness of snow pack throughout the year.
+      subtopics: []
+    - name: Snow Energy Balance
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-energy-balance
+      description: Pertaining to the net increase, or decrease in energy due to snow
+        formation, melting, evaporation, etc..
+      subtopics: []
+    - name: Snow Melt
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-melt
+      description: Pertaining to the rate and extent of melting snow pack(s).
+      subtopics: []
+    - name: Snow Microstructure
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-microstructure
+      description: ''
+      subtopics: []
+    - name: Snow Volume Budget
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-volume-budget
+      description: ''
+      subtopics:
+      - name: Precipitation
+        url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-volume-budget/precipitation
+        description: ''
+        subtopics: []
+    - name: Snow Water Equivalent
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-water-equivalent
+      description: Pertaining to the measurement of the amount of water in a given
+        snow pack.
+      subtopics: []
+    - name: Snow/Ice Temperature
+      url: https://www.earthdata.nasa.gov/topics/cryosphere/snow-ice/snow-ice-temperature
+      description: Pertaining to the measured internal temperature of snow/ice pack(s).
+      subtopics: []
+- name: Human Dimensions
+  url: https://www.earthdata.nasa.gov/topics/human-dimensions
+  description: "The human dimensions discipline includes ways humans interact with\
+    \ the environment and how these interactions impact Earth\u2019s systems. It also\
+    \ explores the vulnerability of human communities to natural disasters and hazards.Human\
+    \ activities, such as the conversion of natural land to built-up areas, the cultivation\
+    \ of agricultural land, and the extent and type of agricultural production, movement\
+    \ and consumption of natural resources, can be tracked by sensors aboard Earth\
+    \ observing satellites. The combination of remotely sensed data with data collected\
+    \ by national and sub-national government agencies (such as census, disease, species\
+    \ diversity, and similar data) enables investigations into the impact of human\
+    \ activities on Earth. Additionally, these data are a vital resource for managing\
+    \ disaster response, such as using nighttime lights data to monitor power outages\
+    \ following storms or thermal anomaly data to track the movement of wildfires\
+    \ near populated areas."
+  subtopics:
+  - name: Economic Resources
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/economic-resources
+    description: Any measurement or statistic of, related, or based on the production,
+      distribution, and consumption of goods and services.
+    subtopics:
+    - name: Agriculture Production
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/economic-resources/agriculture-production
+      description: Any measurement or statistic of, related, or based on the production,
+        distribution, and consumption of goods and services related to agriculture,
+        food, the environment, and rural development.
+      subtopics: []
+    - name: Aquaculture Production
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/economic-resources/aquaculture-production
+      description: The farming and production of aquatic organisms such as fish, crustaceans,
+        mollusks and aquatic plants.
+      subtopics: []
+    - name: Energy Production/Use
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/economic-resources/energy-production-use
+      description: Refers to the production and use of electrical energy for human
+        consumption.
+      subtopics:
+      - name: Oil Production/Use
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/economic-resources/energy-production-use/oil-production-use
+        description: Pertains to the production and processing of natural gas and
+          oil from reservoirs. Production is the yield of an oil or gas well; the
+          branch of the industry that brings the oil and gas to the surface for sale.
+          The phase of the petroleum industry that deals with bringing the well fluids
+          to the surface and separating them and with storing, gauging, and otherwise
+          preparing the product for pipeline. It also pertains to the amount of oil
+          or gas produced in a given period.
+        subtopics: []
+      - name: Solar Energy Production/Use
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/economic-resources/energy-production-use/solar-energy-production-use
+        description: Refers to the production and use of solar energy for human consumption.
+          Solar energy is energy from the sun that is converted into thermal or electrical
+          energy.
+        subtopics: []
+  - name: Environmental Governance/Management
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management
+    description: "A concept in political ecology or environmental policy related to\
+      \ defining the elements needed to achieve sustainability. All human activities--political,\
+      \ social and economic\u2014should be understood and managed as subsets of the\
+      \ environment and ecosystems. Governance includes not only government, but also\
+      \ business and civil society, and emphasizes whole system management. To capture\
+      \ this diverse range of dynamic forces, environmental governance often necessitates\
+      \ founding alternative systems of governing, for example watershed based management."
+    subtopics:
+    - name: Carbon Footprint
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/carbon-footprint
+      description: Measure of the exclusive total amount of emissions of carbon dioxide(CO2)
+        that is directly and indirectly caused by an activity or is accumulated over
+        the life stages of a product. This term is often used in reference to greenhouse
+        gas emissions attributable to persons,industries, or countries.
+      subtopics: []
+    - name: Environmental Assessments
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/environmental-assessments
+      description: The systematic identification and evaluation of the potential impacts
+        of proposed projects, plans, programs, policies, or legislative actions upon
+        the physical, chemical, biological, cultural, and socioeconomic components
+        of the environment.
+      subtopics: []
+    - name: Environmental Regulations
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/environmental-regulations
+      description: Environmental laws or regulations impacting companies.
+      subtopics: []
+    - name: Fire Management
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/fire-management
+      description: Involves the management of wildland fires to restore and maintain
+        the health of ecosystems. Fires are managed through a variety of methods that
+        include prevention, suppression, managing wildfire for resource benefits,
+        prescribed fires, and mechanical treatment of hazardous fuels.
+      subtopics: []
+    - name: Land Management
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/land-management
+      description: Following certain land practices to sustain areas for recreation,
+        wildlife habitat, livestock grazing, wilderness, etc.
+      subtopics:
+      - name: Land Use/Land Cover Classification
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/land-management/land-use-land-cover
+        description: Corresponds to the description of areas and the Earths surface
+          as it relates to areas used for residential, industrial or commercial purposes,
+          for farming or forestry, for recreational or conservation purposes, etc.
+        subtopics: []
+    - name: Water Management
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/water-management
+      description: Water management is a very broad term which can include human direct
+        or indirect impacts on the water cycle. Water management can involve (1) changing
+        the Earths surface such as when dams are created to control flooding (perhaps
+        due to more deforested and overgrazed slopes), (2) pollution control, when
+        decisions are made to minimize the chemicals, such as fertilizers, pesticides,
+        or road salt, that are used on the soil surface in order to minimize the amount
+        of pollutants that will leach into the soil, and (3) amount and quality of
+        water available for human use as when water is used for irrigation, industry
+        or for direct human consumption.
+      subtopics:
+      - name: Groundwater Management
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/water-management/groundwater-management
+        description: The management and allocation of groundwater resources for agricultural,
+          industrial, and domestic use. Effective allocation requires accurate knowledge
+          about the spatial distribution of existing resources and the relevant flow
+          processes. Groundwater management techniques include artificial recharge,
+          aquifer storage and recovery, and water saving irrigation techniques.
+        subtopics: []
+      - name: Stormwater Management
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/water-management/stormwater-management
+        description: Stormwater management is the control and use of stormwater runoff.
+          The goals of stormwater management include reducing flooding to protect
+          people and property, reducing demand on public stormwater drainage systems,
+          and supporting healthy streams and rivers. These can be achieved by planning
+          for runoff, maintaining stormwater systems, and regulating the collection,
+          storage, and movement of stormwater.
+        subtopics: []
+      - name: Water Storage
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-governance-management/water-management/water-storage
+        description: 'Monitoring water storage and its variations is impor-tant to
+          understanding local hydrological processesand the global water cycle, which
+          sustains all life onEarth. The development of satellite remote-sensingtechniques
+          has benefited the retrieval of terrestrialwater storage and its variations,
+          which has emerged asa new discipline. Focusing on terrestrial water storage,this
+          chapter describes three major retrievalapproaches: the water-balance-based
+          approach, thesurface-parameter-based approach, and the GravityRecovery and
+          Climate Experiment (GRACE)-basedapproach. Accurate estimates of terrestrial
+          waterstorage and its variations are still being developed.'
+        subtopics: []
+  - name: Environmental Impacts
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts
+    description: Refers to the types of impacts that humans have on their environment.
+    subtopics:
+    - name: Agricultural Expansion
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/agricultural-expansion
+      description: The expansion of agricultural practices into non-agricultural regions
+        and its impacts on non-agricultural terrestrial and marine ecosystems of the
+        world.
+      subtopics: []
+    - name: Biomass Burning
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/biomass-burning
+      description: Biomass burning is the burning of organic matter, such as, wood
+        or crop wastes,that can be burned or converted into gaseous or liquid fuels.
+        Useful biomass includes wood, wood residues left over from the timber industry,
+        crop residues, charcoal, manure, urban waste, industrial wastes, and municipal
+        sewage. Some of these fuels can be burned directly. Others are converted to
+        methane or a gas.
+      subtopics: []
+    - name: Conservation
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/conservation
+      description: 'The management of human use of the biosphere so that it may yield
+        the greatest sustainable benefit to current generations while maintaining
+        its potential to meet the needs and aspirations of future generations: Thus
+        conservation is positive, embracing preservation, maintenance, sustainable
+        utilization, restoration, and enhancement of the natural environment.'
+      subtopics: []
+    - name: Fossil Fuel Burning
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/fossil-fuel-burning
+      description: Fossil fuel burning refers to the burning of any one of the organic
+        fuels (coal, natural gas, oil, tar sands, and oil shale) derived from once
+        living plants or animals.
+      subtopics: []
+    - name: Gas Flaring
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/gas-flaring
+      description: Refers to the burning of a jet of waste gas in the open air.
+      subtopics: []
+    - name: Industrial Emissions
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/industrial-emissions
+      description: Industrial emissions are air pollution from manufacturing plants
+        and factories.
+      subtopics: []
+    - name: Oil Spills
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/oil-spills
+      description: An oil spill is defined not only as oil which comes from wrecked
+        tankers that spill out oil, but also to oil which comes from well blowouts,
+        breaks in pipelines or oil that enters the oceans from the transfer of oil
+        from offshore platforms to shore during normal operations.
+      subtopics: []
+    - name: Prescribed Burns/Fires
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/prescribed-burns-fires
+      description: Fire applied in a knowledgeable manner to forest fuels on a specific
+        land area under selected weather conditions to accomplish predetermined, well-defined
+        management objectives.
+      subtopics: []
+    - name: Sewage Disposal
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/sewage-disposal
+      description: Involves the transport of sewage through cities and other inhabited
+        areas to sewage treatment plants to protect public health and prevent disease.
+        Sewage is treated to control water pollution before discharge to surface waters.
+      subtopics: []
+    - name: Water Resources
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/environmental-impacts/water-resources
+      description: ''
+      subtopics: []
+  - name: Global Change Responses
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/global-change-responses
+    description: Global change is defined as changes in the global environment that
+      may alter the capacity of the Earth to sustain life. Global change encompasses
+      climate change, but it also includes other critical drivers of environmental
+      change that may or may not interact with climate change, such as land use change,
+      the alteration of the water cycle,changes in biogeochemical cycles, and biodiversity
+      loss. Responses to global change may include actions such as adaptation, mitigation,
+      and various forms of scenario and contingency planning to reduce risk.
+    subtopics:
+    - name: Climate Adaptation
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/global-change-responses/climate-adaptation
+      description: Adjustment in natural or human systems to a new or changing environment
+        that exploits beneficial opportunities or moderates negative effects of a
+        changing climate.
+      subtopics: []
+    - name: Climate Mitigation
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/global-change-responses/climate-mitigation
+      description: Measures to reduce the amount and speed of future climate change
+        by reducing emissions of heat-trapping gases or removing carbon dioxide from
+        the atmosphere.
+      subtopics: []
+    - name: Scenario Planning
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/global-change-responses/scenario-planning
+      description: Preparation based on a plausible description of how the future
+        may develop based on a coherent and internally consistent set of assumptions
+        about key driving forces (e.g., rate of technological change, prices) and
+        relationships. Scenarios are neither predictions nor forecasts, but are used
+        to provide a view of the implications of developments and actions. Preparation
+        may differ for each plausible scenario considered.
+      subtopics: []
+  - name: Habitat Conversion/Fragmentation
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/habitat-conversion-fragmentation
+    description: The change of land quality, for example through land transformation
+      or intensification of land use. Common reasons for habitat conversion are deforestation/reforestation,
+      suburbanization, corridor construction, desertification and agricultural intensification,
+      e.g. wetland drainage, irrigation or degradation due to overgrazing.
+    subtopics:
+    - name: Deforestation
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/habitat-conversion-fragmentation/deforestation
+      description: Deforestation is the removal of trees from a locality. This removal
+        may be either temporary or permanent, leading to partial or complete eradication
+        of the tree cover. It can be a gradual or rapid process, and may occur by
+        means of natural or human agencies, or a combination of both.
+      subtopics: []
+    - name: Desertification
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/habitat-conversion-fragmentation/desertification
+      description: The formation of deserts in arid and semi-arid regions from overgrazing,
+        deforestation, poor agricultural practices, and climate change. Evidence of
+        desertification can be found today in Africa, the Middle East, and the southwestern
+        United States.
+      subtopics: []
+    - name: Irrigation
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/habitat-conversion-fragmentation/irrigation
+      description: Irrigation is supplying water to croplands by artificial means.
+      subtopics: []
+    - name: Urbanization/Urban Sprawl
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/habitat-conversion-fragmentation/urbanization-urban-sprawl
+      description: Urbanization is the expansion of metropolitan areas by building
+        housing developments and shopping centers farther and farther from urban centers
+        and placing them together with more major highways. An outcome of urbanization
+        is the fact that as more highways are built, surfaces are sealed with pavement,
+        increasing stormwater runoff and quickening concentration times. Urban sprawl
+        refers to the process in which an increasing proportion of an entire population
+        lives in cities or suburbs of cities. Urban sprawl, also known as suburban
+        sprawl, is a multifaceted concept, which includes the spreading outwards of
+        a city and its suburbs to its outskirts to low-density, auto-dependent development
+        on rural land, with associated design features that encourage car dependency.
+      subtopics: []
+  - name: Human Settlements
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/human-settlements
+    description: A general term used in archaeology, geography, landscape history
+      and other subjects for a permanent or temporary community in which people live,
+      without being specific as to size, population or importance.
+    subtopics:
+    - name: Coastal Areas
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/human-settlements/coastal-areas
+      description: A geographical area where the land meets the sea or ocean.
+      subtopics: []
+    - name: Tribal Lands
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/human-settlements/tribal-lands
+      description: Areas of land reserved for, managed by, or associated with indigenous
+        peoples or tribal nations.
+      subtopics: []
+    - name: Urban Areas
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/human-settlements/urban-areas
+      description: A geographical area constituting a city or town.
+      subtopics: []
+  - name: Infrastructure
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/infrastructure
+    description: The basic facilities and equipment needed for the functioning of
+      a country or area.
+    subtopics:
+    - name: Electricity
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/infrastructure/electricity
+      description: Associated with the use, production, or transmission of electric
+        power.
+      subtopics: []
+    - name: Transportation
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/infrastructure/transportation
+      description: The roads and equipment necessary for the movement of goods or
+        passengers.
+      subtopics: []
+    - name: Water Storage
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/infrastructure/water-storage
+      description: Methods to store water for human consumption or agricultural use.
+      subtopics: []
+  - name: Natural Hazards
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards
+    description: A hazard event arising from geophysical processes or biological agents
+      -- such as those creating earthquakes, hurricanes, or locust infestations --
+      that affect the lives, livelihood, and property of people.
+    subtopics:
+    - name: Biological Hazards
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/biological-hazards
+      description: Living organisms or derivates(e.g., viruses, bacteria, fungi, and
+        mammal and bird antigens) that can cause harmful health effects when inhaled,
+        swallowed, or otherwise taken into the body.
+      subtopics: []
+    - name: Droughts
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/droughts
+      description: 'A period of dry weather: a long period of extremely dry weather
+        when there is not enough rain for the successful growing of crops or the replenishment
+        of water supplies.'
+      subtopics:
+      - name: Drought Severity
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/droughts/drought-severity
+        description: Drought severity is a relative term that broadly refers to how
+          intense a drought is considered to be. Drought severity can be measured
+          through any number of physical indicators, such as rainfall or streamflow,
+          but it can also be assessed through impacts to other interdependent systems
+          given that drought affects water supply, agriculture, wildfire, and more.
+          Drought frequency, duration, and severity are often used together as a means
+          to describe and evaluate drought conditions in a given area (i.e., how often
+          an area is affected by drought, how long is it affected, and how severely
+          it is affected).
+        subtopics: []
+    - name: Earthquakes
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/earthquakes
+      description: Sudden, violent movement of the Earths crust.
+      subtopics: []
+    - name: Famine
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/famine
+      description: Widespread scarcity of food caused by several factors including
+        crop failure, overpopulation, or government policies. This phenomenon is usually
+        accompanied or followed by regional malnutrition, starvation, epidemic, and
+        increased mortality.
+      subtopics: []
+    - name: Floods
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/floods
+      description: 'Water covering previously dry area: a very large amount of water
+        that has overflowed from a source such as a river or a broken pipe onto a
+        previously dry area.'
+      subtopics: []
+    - name: Heat
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/heat
+      description: Hot weather, which may be accompanied by high humidity
+      subtopics: []
+    - name: Land Subsidence
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/land-subsidence
+      description: Occurs when large amounts of ground water have been withdrawn from
+        certain types of rocks, such as fine-grained sediments. The rock compacts
+        because the water is partly responsible for holding the ground up. When the
+        water is withdrawn, the rocks falls in on itself. You may not notice land
+        subsidence too much because it can occur over large areas rather than in a
+        small spot, like a sinkhole. That doesnt mean that subsidence is not a big
+        event -- states like California, Texas, and Florida have suffered damage to
+        the tune of hundreds of millions of dollars over the years.
+      subtopics: []
+    - name: Landslides
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/landslides
+      description: A slide of a large mass of dirt and rock down a mountain or cliff.
+      subtopics: []
+    - name: Severe Storms
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/severe-storms
+      description: A violent disturbance of the atmosphere with strong winds and usually
+        rain, thunder, lightning, or snow.
+      subtopics: []
+    - name: Tornadoes
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/tornadoes
+      description: A violently rotating column of air extending from a thunderstorm
+        to the ground. The most violent tornadoes are capable of tremendous destruction
+        with wind speeds of 250 mph or more.
+      subtopics: []
+    - name: Tropical Cyclones
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/tropical-cyclones
+      description: The generic term for a non-frontal synoptic scale low-pressure
+        system over tropical or sub-tropical waters with organized convection (i.e.
+        thunderstorm activity) and definite cyclonic surface wind circulation.
+      subtopics:
+      - name: Cyclones
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/tropical-cyclones/cyclones
+        description: An atmospheric cyclonic circulation, a closed circulation. A
+          cyclones direction of rotation (counterclockwise in the Northern Hemisphere)
+          is opposite to that of an anticyclone.
+        subtopics: []
+      - name: Hurricanes
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/tropical-cyclones/hurricanes
+        description: "A tropical cyclone with 1-min average surface (10 m) winds in\
+          \ excess of 32 m s\u22121 (64 knots) in the Western Hemisphere (North Atlantic\
+          \ Ocean, Caribbean Sea, Gulf of Mexico, and in the eastern and central North\
+          \ Pacific east of the date line)."
+        subtopics: []
+    - name: Tsunamis
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/tsunamis
+      description: A wave train, or series of waves, generated in a body of water
+        by an impulsive disturbance that vertically displaces the water column. Earthquakes,
+        landslides, volcanic eruptions, explosions, and even the impact of cosmic
+        bodies, such as meteorites, can generate tsunamis. Tsunamis can savagely attack
+        coastlines, causing devastating property damage and loss of life.
+      subtopics: []
+    - name: Volcanic Eruptions
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/volcanic-eruptions
+      description: Explosions or emissions of lava, ashes and toxic gases from deep
+        inside the earth, through volcanoes.
+      subtopics: []
+    - name: Wildfires
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/wildfires
+      description: An uncontrolled fire in combustible vegetation that occurs in the
+        countryside or a wilderness area. Other names such as brush fire, bushfire,
+        forest fire, desert fire, grass fire, hill fire, peat fire, vegetation fire,
+        and veldfire may be used to describe the same phenomenon depending on the
+        type of vegetation being burned. A wildfire differs from other fires by its
+        extensive size, the speed at which it can spread out from its original source,
+        its potential to change direction unexpectedly, and its ability to jump gaps
+        such as roads, rivers and fire breaks. Wildfires are characterized in terms
+        of the cause of ignition, their physical properties such as speed of propagation,
+        the combustible material present, and the effect of weather on the fire.
+      subtopics:
+      - name: Burned Area
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/wildfires/burned-area
+        description: An area characterized by deposits of charcoal and ash, removal
+          of vegetation, and alteration of the vegetation structure due to wildfire.
+        subtopics: []
+      - name: Wildfire Suppression
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/natural-hazards/wildfires/wildfire-suppression
+        description: Refers to the firefighting tactics used to suppress wildfires.
+          Firefighting efforts in wildland areas requires different techniques, equipment,
+          and training from the more familiar structure fire fighting found in populated
+          areas. Working in conjunction with specially designed firefighting aircraft,
+          these wildfire-trained crews suppress flames, construct firelines, and extinguish
+          flames and areas of heat to protect resources and natural wilderness. Wildfire
+          suppression also addresses the issues of the wildland-urban interface, where
+          populated areas border with wildland areas.
+        subtopics: []
+  - name: Public Health
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health
+    description: The science and art of preventing disease, prolonging life and promoting
+      health through the organized efforts and informed choices of society, organizations,
+      public and private, communities and individuals.
+    subtopics:
+    - name: Diseases/Epidemics
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/diseases-epidemics
+      description: Diseases are used here to relate to human diseases which may be
+        linked to poor environmental quality, such as poor air quality, or may ensue
+        due to change in climate.
+      subtopics:
+      - name: Foodborne Diseases
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/diseases-epidemics/foodborne-diseases
+        description: Illness or disease caused by consumption of foods or drinks contaminated
+          with biological or chemical toxins or pathogens, including disease-causing
+          microbes or toxic chemicals.
+        subtopics: []
+      - name: Vector-born Diseases
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/diseases-epidemics/vector-born-diseases
+        description: "Illnesses and diseases spread through vectors. \u200BVector-borne\
+          \ diseases include, for example, Malaria, Dengue Fever, West Nile virus,\
+          \ and Lyme disease."
+        subtopics: []
+      - name: Waterborne Diseases
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/diseases-epidemics/waterborne-diseases
+        description: Diseases caused by consuming water that contains harmful microorganisms,
+          biotoxins, or toxic contaminants. Examples include cholera, schistosomiasis,
+          and other gastrointestinal problems. Waterborne diseases are often the result
+          of unsafe sanitation practices or a breakdown in infrastructure that can
+          be a result of or exacerbated by various natural hazards, such as flood
+          or drought.
+        subtopics: []
+    - name: Environmental Health Factors
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/environmental-health-factors
+      description: Refer to measurements of human physiological functions such as
+        those provided by heat exchange data or human response to such environmental
+        factors as contaminants.
+      subtopics:
+      - name: Particulate Matter Concentrations
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/environmental-health-factors/particulate-matter
+        description: "Concentrations of tiny airborne pieces of solid or liquid matter\
+          \ such as soot, dust, fumes, mists, aerosols, haze, and smoke.\xB9 The size\
+          \ of particles is directly linked to their potential for causing health\
+          \ problems. Small particles less than 10 micrometers in diameter pose the\
+          \ greatest risk because they can travel deep into the respiratory system\
+          \ and affect the lungs and heart. \xB2"
+        subtopics: []
+      - name: Urban Heat Island
+        url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/environmental-health-factors/urban-heat-island
+        description: The tendency for higher air temperatures to persist in urban
+          areas as aresult of heat absorbed and emitted by buildings and asphalt,
+          tending to make cities warmer than the surrounding countryside.
+        subtopics: []
+    - name: Food Security
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/food-security
+      description: A state that prevails when people have secure access to sufficient
+        amounts of safe and nutritious food for normal growth, development,and an
+        active and healthy life.
+      subtopics: []
+    - name: Malnutrition
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/malnutrition
+      description: Faulty nutrition due to inadequate or unbalanced intake of nutrients
+        or their impaired assimilation or utilization.
+      subtopics: []
+    - name: Morbidity
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/public-health/morbidity
+      description: The quality or state of being morbid.
+      subtopics: []
+  - name: Social Behavior
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/social-behavior
+    description: Any behavior caused by or affecting another individual, usually of
+      the same species.
+    subtopics:
+    - name: Consumer Behavior
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/social-behavior/consumer-behavior
+      description: Consumer behavior is defined to be information about what people
+        purchase with respect to agricultural commodities, meat and other edible commodities,
+        as well as with respect to non-edible products such as gasoline, paper and
+        tobacco. Consumer behavior may also relate to such consumer services as travel
+        decisions. It also may include information about how consumers make these
+        decisions.
+      subtopics: []
+    - name: Disaster Response
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/social-behavior/disaster-response
+      description: A phase of the disaster management cycle that involves the mobilization
+        of the necessary emergency services and first responders in the disaster area.
+        This is likely to include a first wave of core emergency services, such as
+        firefighters, police and ambulance crews.
+      subtopics: []
+    - name: Environmental Justice
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/social-behavior/environmental-justice
+      description: Environmental justice is the fair treatment and meaningful involvement
+        of all people regardless of race, color, national origin, or income, with
+        respect to the development, implementation, and enforcement of environmental
+        laws, regulations, and policies. NASA data are being used to support environmental
+        and climate justice efforts. Scientists and decision-makers are applying a
+        wide combination of datasets to assess the vulnerability and exposure of communities
+        to environmental challenges. By providing full and open access to data, software,
+        and tools, the agency ensures that anyone can use these resources.
+      subtopics: []
+    - name: Hazard Mitigation/Planning
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/social-behavior/hazard-mitigation-planning
+      description: A cost-effective measure that will reduce the potential for damage
+        to a facility or area from a disaster event. Pre-planning for a hazard can
+        reduce or eliminate the long-term risk to human life and property from hazards.
+      subtopics: []
+    - name: Preservation
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/social-behavior/preservation
+      description: The activity of protecting something (in the environment) from
+        loss or danger.
+      subtopics: []
+    - name: Recreational Activities/Areas
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/social-behavior/recreational-activities-areas
+      description: Describes an activity that diverts or amuses or stimulates. It
+        can also be described as an activity that renews health and spirits by enjoyment
+        and relaxation.
+      subtopics: []
+    - name: Vulnerability Levels/Index
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/social-behavior/vulnerability-levels-index
+      description: A measurement of the level of vulnerability of a given area or
+        environment. The level of vulnerability is determined by physical, social,
+        economic, and environmental factors or processes, which increase the susceptibility
+        of a community to the impact of hazards.
+      subtopics: []
+  - name: Socioeconomics
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/socioeconomics
+    description: The use of economics in the study of society. More narrowly, contemporary
+      practice considers behavioral interactions of individuals and groups through
+      social capital and social markets (not excluding for example, sorting by marriage)
+      and the formation of social norms. In the latter, it studies the relation of
+      economics to social values.
+    subtopics:
+    - name: Industrialization
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/socioeconomics/industrialization
+      description: Industrialization can refer to a major shift in manufacturing,
+        from small-scale production by hand to large-scale production by machine.
+        Industrialization is made possible by new technologies, but also by an abundant
+        supply of fuel, such as coal. Industrialization makes manufacturing more energy-intensive
+        and much less labor intensive. Industrialization leads to the mass production
+        of products, which means that more goods are available to more people.
+      subtopics: []
+    - name: Poverty Levels
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/socioeconomics/poverty-levels
+      description: A measurement of the level of poverty of an area at a given time
+        and place.
+      subtopics: []
+  - name: Sustainability
+    url: https://www.earthdata.nasa.gov/topics/human-dimensions/sustainability
+    description: The capacity to endure. For humans, sustainability is the long-term
+      maintenance of responsibility, which has environmental, economic, and social
+      dimensions, and encompasses the concept of stewardship, the responsible management
+      of resource use.
+    subtopics:
+    - name: Environmental Sustainability
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/sustainability/environmental-sustainability
+      description: Meeting the needs of the present without compromising the ability
+        of future generations to meet their needs. Encompasses, e.g. keeping population
+        densities below the carrying capacity of a region, facilitating the renewal
+        of renewable resources, conserving and establishing priorities for the use
+        of non-renewable resources, and keeping environmental impact below the level
+        required to allow affected systems to recover and continue to evolve.
+      subtopics: []
+    - name: Sustainable Development
+      url: https://www.earthdata.nasa.gov/topics/human-dimensions/sustainability/sustainable-development
+      description: Development that ensures that the use of resources and the environment
+        today does not restrict their use by future generations.
+      subtopics: []
+- name: Land Surface
+  url: https://www.earthdata.nasa.gov/topics/land-surface
+  description: "The land surface discipline includes research into areas such as shrinking\
+    \ forests, warming land, and eroding soils. NASA data provide key information\
+    \ on land surface parameters and the ecological state of our planet.The land surface\
+    \ discipline includes research into areas such as shrinking forests, warming land,\
+    \ and eroding soils. Earth observing satellites provide key information on land\
+    \ surface parameters including surface temperature, land cover, land use, topography,\
+    \ soil moisture, vegetation cover and many other biophysical properties that provide\
+    \ the basis for characterizing the ecological state of Earth\u2019s terrestrial\
+    \ areas. Understanding alterations to land surface characteristics is a priority\
+    \ outlined in the 2017 Decadal Survey, which informs NASA\u2019s activities for\
+    \ implementing its mission to understand Earth as a living planet."
+  subtopics:
+  - name: Geomorphic Landforms/Processes
+    url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes
+    description: The science dealing with the form and surface configuration of the
+      solid earth. It is primarily an attempt to reveal the complex interrelationships
+      between the origin (and therefore material composition) of surface features
+      on the one hand, and the causes of the surface alteration (erosion, weather,
+      crustal upheaval, etc.) on the other hand.
+    subtopics:
+    - name: Fluvial Landforms
+      url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/fluvial-landforms
+      description: Fluvial landforms are features on the Earths surface produced by
+        the action, i.e. erosion and deposition, of a stream or river and include
+        such landforms as bars, levees, braided and meandering channels, and alluvial
+        fans. Fluvial processes are those processes included in the action of running
+        water in a stream or river
+      subtopics:
+      - name: Canyon
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/fluvial-landforms/canyon
+        description: A narrow valley with steep sides; usually created by erosion.
+        subtopics: []
+      - name: Deltas
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/fluvial-landforms/deltas
+        description: Land built up by deposits of sand and silt at the mouth of some
+          rivers.
+        subtopics: []
+      - name: Flood Plain
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/fluvial-landforms/flood-plain
+        description: Flat or nearly flat land adjacent to a stream or river that experiences
+          occasional or periodic flooding.
+        subtopics: []
+      - name: River
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/fluvial-landforms/river
+        description: A natural watercourse, usually freshwater, flowing towards an
+          ocean, a lake, a sea, or another river.
+        subtopics: []
+      - name: Valley
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/fluvial-landforms/valley
+        description: Low land between hills or mountains.
+        subtopics: []
+    - name: Glacial Landforms
+      url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/glacial-landforms
+      description: Landforms created by the action of glaciers. Most of glacial landforms
+        today were created by the movement of large ice sheets during the Quaternary
+        glaciations.
+      subtopics:
+      - name: Glacier Striations/Grooves
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/glacial-landforms/glacier-striations-grooves
+        description: Scratches or gouges cut into bedrock by process of glacial abrasion.
+          Glacial striations usually occur as multiple straight, parallel grooves
+          representing the movement of the sediment-loaded base of the glacier.
+        subtopics: []
+    - name: Island
+      url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/island
+      description: ''
+      subtopics: []
+    - name: Tectonic Landforms
+      url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/tectonic-landforms
+      description: Tectonic landforms are structural landforms of regional extent.
+        These landforms make up extensive landscapes whose topography is strongly
+        influenced by the structure of underlying rocks that have undergone (or are
+        undergoing) some degree of deformation (and possible associated metamorphism
+        and igneous intrusion). Landscapes developed on orogenic belts, uplifts, domes,
+        basins, and shields can all be thought of as tectonic landforms. Tectonic
+        processes are large-scale geologic processes that develop these landforms
+        and include mountain building and crustal rifting.
+      subtopics:
+      - name: Geyser
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/tectonic-landforms/geyser
+        description: A spring characterized by intermittent discharge of water ejected
+          turbulently and accompanied by a vapour phase (steam).
+        subtopics: []
+      - name: Maar
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/tectonic-landforms/maar
+        description: Broad, low-relief volcanic crater that is caused by a phreatomagmatic
+          eruption, an explosion caused by groundwater coming into contact with hot
+          lava or magma. A maar characteristically fills with water to form a relatively
+          shallow crater lake.
+        subtopics: []
+      - name: Mountains
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/tectonic-landforms/mountains
+        description: A large landform that stretches above the surrounding land in
+          a limited area usually in the form of a peak. A mountain is generally steeper
+          than a hill. The adjective montane is used to describe mountainous areas
+          and things associated with them.
+        subtopics: []
+      - name: Volcano
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/tectonic-landforms/volcano
+        description: A cone shaped mountain formed out of rock or ash thrown up from
+          inside the earth, frequently with an opening or depression at the top.
+        subtopics: []
+    - name: Tectonic Processes
+      url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/tectonic-processes
+      description: The process of upwelling of magma, plate movement, subduction of
+        crust, folding, faulting, warping, fracturing, earthquakes, and volcanic activity.
+      subtopics:
+      - name: Subduction
+        url: https://www.earthdata.nasa.gov/topics/land-surface/geomorphic-landforms-processes/tectonic-processes/subduction
+        description: The process that takes place at convergent boundaries by which
+          one tectonic plate moves under another tectonic plate, sinking into the
+          Earths mantle, as the plates converge. A subduction zone is an area on Earth
+          where two tectonic plates move towards one another and subduction occurs.
+        subtopics: []
+  - name: Land Use/Land Cover
+    url: https://www.earthdata.nasa.gov/topics/land-surface/land-use-land-cover
+    description: The observed physical cover and natural use of the land including
+      the vegetation and human construction, which covers the earths surface.
+    subtopics:
+    - name: Land Productivity
+      url: https://www.earthdata.nasa.gov/topics/land-surface/land-use-land-cover/land-productivity
+      description: The rate of production, especially of food, by the utilization
+        of solar energy by producer organisms.
+      subtopics: []
+    - name: Land Resources
+      url: https://www.earthdata.nasa.gov/topics/land-surface/land-use-land-cover/land-resources
+      description: Areas containing available sources of wealth, including cultural
+        heritage resources, recreation features, range developments, or any other
+        feature similarly designated.
+      subtopics: []
+    - name: Land Use/Land Cover Classification
+      url: https://www.earthdata.nasa.gov/topics/land-surface/land-use-land-cover/land-use-land-cover-classification
+      description: Relates to the type of feature present on the surface of the earth.
+        This can include such things as corn fields, lakes, maple trees, and concrete
+        highways.
+      subtopics:
+      - name: Vegetation Index
+        url: https://www.earthdata.nasa.gov/topics/land-surface/land-use-land-cover/land-use-land-cover-classification/vegetation-index
+        description: An index that is determined using visible and near-IR channels
+          on AVHRR. Denotes relative chlorophyll content of vegetation during daylight
+          conditions, and is thus used to monitor drought conditions.
+        subtopics: []
+  - name: Soils
+    url: https://www.earthdata.nasa.gov/topics/land-surface/soils
+    description: The range of dynamic natural bodies composed of mineral and organic
+      materials and living forms in which plants grow.
+    subtopics:
+    - name: Carbon
+      url: https://www.earthdata.nasa.gov/topics/land-surface/soils/carbon
+      description: Any measurement of Carbon in the soil, in organic or inorganic
+        fractions.
+      subtopics: []
+    - name: Soil Moisture/Water Content
+      url: https://www.earthdata.nasa.gov/topics/land-surface/soils/soil-moisture-water-content
+      description: 'Soil Water Content: The water lost from soil upon drying to constant
+        mass at 105 degrees Celcius; expressed either as the mass of water per unit
+        mass of drysoil or as the volume of water per unit bulk volume of soil. For
+        GCMD purpose, this also includes all measurements related to soil water, such
+        as capcity, potential, and pressure, etc...'
+      subtopics: []
+    - name: Soil Temperature
+      url: https://www.earthdata.nasa.gov/topics/land-surface/soils/soil-temperature
+      description: The degree of hotness or coldness of the soil as measured on some
+        definite temperature scale.
+      subtopics: []
+    - name: Soil Water Holding Capacity
+      url: https://www.earthdata.nasa.gov/topics/land-surface/soils/soil-water-holding-capacity
+      description: The percentage of water remaining in a soil two or three days after
+        its having been saturated and after free drainage has practically ceased (field
+        moisture capacity).
+      subtopics: []
+  - name: Surface Radiative Properties
+    url: https://www.earthdata.nasa.gov/topics/land-surface/surface-radiative-properties
+    description: Any measurement involving the scattering, absorption, or reflection
+      of electromagnetic radiation at the land surface.
+    subtopics:
+    - name: Albedo
+      url: https://www.earthdata.nasa.gov/topics/land-surface/surface-radiative-properties/albedo
+      description: The ratio of the radiation reflected from an object to the total
+        amount incident upon it, for a particular portion of the spectrum.
+      subtopics: []
+    - name: Reflectance
+      url: https://www.earthdata.nasa.gov/topics/land-surface/surface-radiative-properties/reflectance
+      description: The ratio of reflected radiation to that of the incident radiation
+        on a surface.
+      subtopics: []
+  - name: Surface Thermal Properties
+    url: https://www.earthdata.nasa.gov/topics/land-surface/surface-thermal-properties
+    description: Refers to the measurements of any sort related to the amount of heat
+      on the surface of the land.
+    subtopics:
+    - name: Land Surface Temperature
+      url: https://www.earthdata.nasa.gov/topics/land-surface/surface-thermal-properties/land-surface-temperature
+      description: "Refers to how hot the \u201Csurface\u201D of the Earth would feel\
+        \ to the touch in a particular location. From a satellite\u2019s point of\
+        \ view, the \u201Csurface\u201D is whatever it sees when it looks through\
+        \ the atmosphere to the ground. It could be snow and ice, the grass on a lawn,\
+        \ the roof of a building, or the leaves in the canopy of a forest. Thus, land\
+        \ surface temperature is not the same as the air temperature that is included\
+        \ in the daily weather report."
+      subtopics: []
+  - name: Topography
+    url: https://www.earthdata.nasa.gov/topics/land-surface/topography
+    description: The general configuration of the land surface, including its relief
+      and the position of its natural features.
+    subtopics:
+    - name: Terrain Elevation
+      url: https://www.earthdata.nasa.gov/topics/land-surface/topography/terrain-elevation
+      description: The vertical distance from mean sea level to a point or object
+        on the Earths surface.
+      subtopics:
+      - name: Digital Elevation/Terrain Model (dem)
+        url: https://www.earthdata.nasa.gov/topics/land-surface/topography/terrain-elevation/digital-elevation-terrain-model-dem
+        description: A digital model or 3D representation of a terrains surface created
+          from terrain elevation data.
+        subtopics: []
+- name: Ocean
+  url: https://www.earthdata.nasa.gov/topics/ocean
+  description: "The ocean covers more than 70% of Earth\u2019s surface and contains\
+    \ 97% of the planet\u2019s water. This vast, critical reservoir supports a diversity\
+    \ of life and helps regulate Earth\u2019s climate.Earth is known as the water\
+    \ planet. The global ocean covers more than 70% of Earth\u2019s surface and contains\
+    \ 97% of the planet\u2019s water. Less than 3% of water on Earth is stored in\
+    \ our lakes, rivers, glaciers, and icesheets. The ocean is a vast and critical\
+    \ reservoir that supports a diversity of life, helps regulate climate, provides\
+    \ a large amount of the planet\u2019s oxygen, and stores an abundance of carbon\
+    \ dioxide. NASA data provide measurements on geophysical parameters that characterize\
+    \ the ocean, as well as those physical processes operating within Earth\u2019\
+    s ocean and at its surface. Data products include information about ocean processes\
+    \ including ocean circulation and surface winds, and heat exchange between the\
+    \ ocean and atmosphere, including sea surface temperature, sea surface salinity,\
+    \ and sea surface height. In addition, NASA data provide optical information that\
+    \ aids in assessing chlorophyll concentrations and turbidity and helps provide\
+    \ trends in global mean sea level."
+  subtopics:
+  - name: Aquatic Sciences
+    url: https://www.earthdata.nasa.gov/topics/ocean/aquatic-sciences
+    description: The study of Fisheries and Aquaculture.
+    subtopics:
+    - name: Aquaculture
+      url: https://www.earthdata.nasa.gov/topics/ocean/aquatic-sciences/aquaculture
+      description: The farming of aquatic organisms including fish, molluscs, crustaceans
+        and aquatic plants with some sort of intervention in the rearing process to
+        enhance production, such as regular stocking, feeding, protection from predators,
+        etc. Also referred to as Mariculture - Marine fish farming (aquaculture).
+        Raising of marine animals and plants in the controlled or selected aquatic
+        environments for any commercial, recreational, or public purpose.
+      subtopics: []
+    - name: Fisheries
+      url: https://www.earthdata.nasa.gov/topics/ocean/aquatic-sciences/fisheries
+      description: Related to the act, process, or season of catching a species of
+        fish or a group of species in marine and non-marine environments, excludes
+        fish farming, hatcheries, and other aquaculture.
+      subtopics: []
+  - name: Coastal Processes
+    url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes
+    description: Scientific field of study of the land environment immediately affected
+      by marine processes. Includes variables pertaining to both coastal features
+      and the processes that affect them.
+    subtopics:
+    - name: Coral Reefs
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/coral-reefs
+      description: A mass of calcium carbonate rock material derived from coral organisms,
+        algae, mollusks, worms, etc. Also used as pertaining to the living biological
+        aspects of the reef.
+      subtopics: []
+    - name: Deltas
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/deltas
+      description: The deposit of sediments found at the mouth of a river.
+      subtopics: []
+    - name: Estuaries
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/estuaries
+      description: A semi-enclosed body of water near a coastline where fresh water
+        mixes with ocean water.
+      subtopics: []
+    - name: Local Subsidence Trends
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/local-subsidence-trends
+      description: Sinking of the land due to tectonic or isostatic processes.
+      subtopics: []
+    - name: Longshore Currents
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/longshore-currents
+      description: A current running parallel to shore in the surf zone, caused by
+        the incomplete refraction of waves approaching the beach at an angle.
+      subtopics: []
+    - name: Mangroves
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/mangroves
+      description: Pertaining to the environment of large flowering shrubs or trees
+        growing in dense thickets or forests along muddy or silty tropical coasts.
+      subtopics: []
+    - name: Sea Level Rise
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/sea-level-rise
+      description: An increase in the average height of the sea surface over a vertical
+        datum.
+      subtopics: []
+    - name: Sea Surface Height
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/sea-surface-height
+      description: The height of the ocean surface above a datum, such as a vertical
+        datum for sea level measurements, or a reference ellipsoid for satellite altimetric
+        measurements.
+      subtopics: []
+    - name: Sedimentation
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/sedimentation
+      description: The process of deposition of loose particulate material, especially
+        by mechanical means, from a state of suspension in water or air.
+      subtopics: []
+    - name: Storm Surge
+      url: https://www.earthdata.nasa.gov/topics/ocean/coastal-processes/storm-surge
+      description: A rise above normal sea level on the coast where the Ekman effect,
+        from strong winds, causes the shallow waters to pile up against the shore.
+      subtopics: []
+  - name: Marine Environment Monitoring
+    url: https://www.earthdata.nasa.gov/topics/ocean/marine-environment-monitoring
+    description: The act of watching,keeping track of or checking the ocean(pelagic
+      or bottom conditions) for a special purpose.
+    subtopics: []
+  - name: Ocean Chemistry
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry
+    description: Scientific field of study pertaining to the composition and properties
+      of seawater. Variables include concentrations of seawaters constituent materials.
+      For variables pertaining to seawater salinity, see the Term Salinity/Density.
+    subtopics:
+    - name: Biogeochemical Cycles
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry/biogeochemical-cycles
+      description: The transport of materials on the Earth, as a result of biological,
+        geological, and chemical processes.
+      subtopics: []
+    - name: Carbon
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry/carbon
+      description: A nonmetallic element, with chemical symbol C, found combined with
+        other elements in all organic matter and in a pure state as diamond or graphite.
+      subtopics: []
+    - name: Chlorophyll
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry/chlorophyll
+      description: Chlorophyll is the green pigment in plants responsible for absorbing
+        the light energy required for photosynthesis.
+      subtopics: []
+    - name: Dissolved Solids
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry/dissolved-solids
+      description: Materials less than 0.45 micrometer in length, as distinguished
+        from suspended solids and other particulate matter, which are greater than
+        0.45 micrometer in length.
+      subtopics: []
+    - name: Hydrocarbons
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry/hydrocarbons
+      description: Organic compounds composed entirely of carbon and hydrogen atoms.
+      subtopics: []
+    - name: Hypoxia
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry/hypoxia
+      description: 'Hypoxia in aquatic systems refers to waters where the dissolved
+        oxygen concentration is below 2 mg/L. Most organisms avoid, or become physiologically
+        stressed, in waters with oxygen below this concentration. Also known as a
+        dead zone, hypoxia can also kill marine organisms which cannot escape the
+        low-oxygen water, affecting commercial harvests and the health of impacted
+        ecosystems. 3. Rationale: Numerous researchers are studying hypoxia, the hypoxic
+        zone, and its effect on fisheries. It is becoming a highly visible hot topic
+        in the Gulf of Mexico and other regions as the onset of hypoxia is largely
+        due to increased nutrient run off from agriculture practices in the Mississippi
+        River watershed. I think there needs to be a unifying keyword to link these
+        datasets together for users to discover hypoxia related data across multiple
+        organizations and programs.'
+      subtopics: []
+    - name: Nitrate
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry/nitrate
+      description: A charged molecule composed of one atom of nitrogen and three atoms
+        of oxygen, NO3-, available to plants and phytoplankton as a nutrient.
+      subtopics: []
+    - name: Nutrients
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-chemistry/nutrients
+      description: Inorganic or organic solutes necessary for the nutrition of primary
+        producers.
+      subtopics: []
+  - name: Ocean Circulation
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation
+    description: Pertaining to or measuring the movement of water in the marine environment.
+      Variables include types of motion, as well as, circulation features. Proper
+      names of oceanic currents are not included.
+    subtopics:
+    - name: Advection
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/advection
+      description: The horizontal or vertical flow of seawater as a current.
+      subtopics: []
+    - name: Convection
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/convection
+      description: The circulatory vertical motion in a fluid medium (ocean water)
+        owing to the variation of its density and the action of gravity.
+      subtopics: []
+    - name: Fresh Water Flux
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/fresh-water-flux
+      description: The volume transport of water to (riverine discharge, glacial discharge,
+        precipitation) or from (evaporation) the ocean.
+      subtopics: []
+    - name: Gyres
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/gyres
+      description: The large-scale pattern of circulation around the entire ocean
+        basin.
+      subtopics: []
+    - name: Ocean Currents
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/ocean-currents
+      description: Horizontal flow of water in an established, defined pattern.
+      subtopics: []
+    - name: Thermohaline Circulation
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/thermohaline-circulation
+      description: Circulation driven by the unequal heating of earth by the sun,
+        together with surface patterns of evaporation and precipitation.
+      subtopics: []
+    - name: Upwelling/Downwelling
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/upwelling-downwelling
+      description: The upward motion of seawater anywhere in the oceans.
+      subtopics: []
+    - name: Water Masses
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/water-masses
+      description: A large body of seawater identified by its temperature and salinity.
+      subtopics: []
+    - name: Wind-driven Circulation
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-circulation/wind-driven-circulation
+      description: The surface currents that form from the transfer of energy from
+        winds to surface waters.
+      subtopics: []
+  - name: Ocean Heat Budget
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-heat-budget
+    description: Study of the heat energy gains and losses of the oceans, on global
+      or regional scales. Variables include the terms in the heat budget equation.
+    subtopics: []
+  - name: Ocean Pressure
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-pressure
+    description: Pertaining to the measurement of force per unit area exerted on water
+      by the overlying column of water.
+    subtopics:
+    - name: Sea Level Pressure
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-pressure/sea-level-pressure
+      description: The force per unit area exerted by the overlying atmosphere on
+        a point at mean sea level, either measured directly or calculated from an
+        observed air pressure not at mean sea level.
+      subtopics: []
+  - name: Ocean Salinity Budget
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-salinity-budget
+    description: ''
+    subtopics: []
+  - name: Ocean Temperature
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-temperature
+    description: Pertaining to the measurement of the average kinetic energy of oceanic
+      water.
+    subtopics:
+    - name: Sea Surface Temperature
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-temperature/sea-surface-temperature
+      description: A measure of the average kinetic energy of the vibration of water
+        molecules, measured or estimated at the sea surface.
+      subtopics: []
+    - name: Thermocline
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-temperature/thermocline
+      description: The zone of the ocean in which temperature decreases rapidly with
+        depth.
+      subtopics: []
+    - name: Water Temperature
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-temperature/water-temperature
+      description: A measure of the average kinetic energy of the vibration of water
+        molecules.
+      subtopics: []
+  - name: Ocean Volume Budget
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-volume-budget
+    description: ''
+    subtopics:
+    - name: Precipitation
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-volume-budget/precipitation
+      description: ''
+      subtopics: []
+  - name: Ocean Waves
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-waves
+    description: Study of the disturbances of the ocean medium caused by the movement
+      of energy through that medium. Variables include types and characteristics of
+      waves.
+    subtopics:
+    - name: Rossby/Planetary Waves
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-waves/rossby-planetary-waves
+      description: A wave on a uniform current in a two-dimensional nondivergent fluid
+        system, rotating with varying angle speed about the local vertical (beta plane).
+      subtopics: []
+    - name: Sea State
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-waves/sea-state
+      description: A measure of the roughness of the sea surface; a scale of surface
+        wave conditions related to the speed of wind.
+      subtopics: []
+    - name: Swells
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-waves/swells
+      description: The long-period, undulating waves that propagate energy to great
+        distances from the point of generation; the source of breakers along the beach.
+      subtopics: []
+    - name: Tsunamis
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-waves/tsunamis
+      description: Japanese for wave in bay. A long-period wave generated by rapid
+        displacement of water, such as by seismic disturbances to the sea floor. Tsunamis
+        travel at speeds of about 700 km/h in the open ocean and build to dangerous
+        heights and energy density when their speed slows in shallow waters.
+      subtopics: []
+    - name: Wind Waves
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-waves/wind-waves
+      description: A wave formed by transfer of wind energy into water.
+      subtopics: []
+  - name: Ocean Winds
+    url: https://www.earthdata.nasa.gov/topics/ocean/ocean-winds
+    description: Study of the mass movement of air over the surface of the oceans.
+    subtopics:
+    - name: Surface Winds
+      url: https://www.earthdata.nasa.gov/topics/ocean/ocean-winds/surface-winds
+      description: The wind speed and direction recorded at an observing site at the
+        ocean surface.
+      subtopics: []
+  - name: Salinity/Density
+    url: https://www.earthdata.nasa.gov/topics/ocean/salinity-density
+    description: The total amount of dissolved material in water and its effect on
+      waters mass-to-volume ratio. Scientific measurements related to either salinity
+      or density are included under this Term.
+    subtopics:
+    - name: Salinity
+      url: https://www.earthdata.nasa.gov/topics/ocean/salinity-density/salinity
+      description: A measure of the dissolved solids in seawater.
+      subtopics: []
+  - name: Sea Ice
+    url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice
+    description: Pertaining to the study of frozen seawater over the ocean surface.
+    subtopics:
+    - name: Ice Depth/Thickness
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice/ice-depth-thickness
+      description: Ice depth or thickness refers to the extent of the ice below the
+        surface of the water. The term is also used in river and lake ice studies.
+        Remote sensing techniques (particularly radar and microwave) have been used
+        to estimate ice thickness as have recently declassified submarine measurements
+        of polar ice thickness.
+      subtopics: []
+    - name: Ice Extent
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice/ice-extent
+      description: The minimum or maximum length of the ice or ice edge into the open
+        water. Also refers to the extent of the ice pack into the open ocean (which
+        varies seasonally).
+      subtopics: []
+    - name: Icebergs
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice/icebergs
+      description: A piece of ice that has broken off from the end of a glacier that
+        terminates in water. Only about 10 percent of its mass is above the surface
+        of the water.
+      subtopics: []
+    - name: Pack Ice
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice/pack-ice
+      description: Pack ice refers to high concentrations of sea ice. When concentrations
+        are 60% or less, then the term drift ice is used.
+      subtopics: []
+    - name: Polynyas
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice/polynyas
+      description: Any non-linear shaped opening enclosed by ice. May contain brash
+        ice and/or be covered with new ice, nilas or young ice; sub-mariners refer
+        to these as skylights. Polynyas are important in the study of the energy budget
+        of the polar ocean and local and regional climatology.
+      subtopics: []
+    - name: Salinity
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice/salinity
+      description: How salty the water is. Brine has a very high salinity. Fresh water
+        has a salinity of zero.
+      subtopics: []
+    - name: Sea Ice Age
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice/sea-ice-age
+      description: The age of the sea ice is usually a distinction between first-year
+        and multiyear ice. Multiyear sea ice is usually thicker, has more ridges,
+        and can be more of a hinderance to ship travel than first-year ice. Microwave
+        remote sensing studies have shown that first-year sea ice has a higher emissivity
+        at the 1.55 cm wavelength than multiyear ice, thus making it possible to distinguish
+        between different ice ages from satellites. Ice age can also be qualitatively
+        determined using visible, infrared and radar wavelengths from satellites.
+      subtopics: []
+    - name: Sea Ice Motion
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-ice/sea-ice-motion
+      description: 'Refers to the movement and direction of ice fields or floes. Ice
+        motion processes include: diverging, compacting, and shearing.'
+      subtopics: []
+  - name: Sea Surface Topography
+    url: https://www.earthdata.nasa.gov/topics/ocean/sea-surface-topography
+    description: To measure sea surface height, or surface topography, scientists
+      need to obtain the precise distance between the satellite and the center of
+      the Earth and the precise distance between the satellite and the sea surface.
+      Sea surface height is then calculated by subtracting the distance between the
+      sea surface and the satellite from the distance between the center of the Earth
+      and the satellite. The distance between the satellite and the center of the
+      Earth is obtained by carefully monitoring the satellite position at all times.
+    subtopics:
+    - name: Sea Surface Height
+      url: https://www.earthdata.nasa.gov/topics/ocean/sea-surface-topography/sea-surface-height
+      description: The height of the ocean surface above a datum, such as a vertical
+        datum for sea level measurements, or a reference ellipsoid for satellite altimetric
+        measurements.
+      subtopics: []
+  - name: Water Quality
+    url: https://www.earthdata.nasa.gov/topics/ocean/water-quality
+    description: The distinguishing attribute or characteristic of water.
+    subtopics:
+    - name: Harmful Algal Bloom (HAB)
+      url: https://www.earthdata.nasa.gov/topics/ocean/water-quality/harmful-algal-bloom-hab
+      description: ''
+      subtopics: []
+    - name: Ocean Contaminants
+      url: https://www.earthdata.nasa.gov/topics/ocean/water-quality/ocean-contaminants
+      description: Intrusion of or contact with undesirable elements from an outside
+        source that affect the water quality of the ocean.
+      subtopics: []
+- name: Solid Earth
+  url: https://www.earthdata.nasa.gov/topics/solid-earth
+  description: "Processes occurring deep within Earth constantly are shaping landforms.\
+    \ Although originating from below the surface, these processes can be analyzed\
+    \ from ground, air, or space-based measurements.We live on a restless planet:\
+    \ tectonic plates shift, coasts erode, and volcanoes erupt. These changes happen\
+    \ on longer geologic timescales and in sudden, catastrophic moments. Earth is\
+    \ continually influenced by the Sun, gravitational forces, processes emanating\
+    \ from deep within the core, and by complex interactions with the ocean and atmosphere.\
+    \ Understanding these dynamics is critical for developing an interconnected view\
+    \ of Earth science. Although many solid Earth processes originate from below Earth\u2019\
+    s surface, they can be analyzed using measurements from ground, air, or space-based\
+    \ instruments. NASA gravity, geomagnetism, tectonics, and ground motion data provide\
+    \ insight into landscape changes, water resources, and the effects of global climate\
+    \ change. These data also provide timely information to first responders during\
+    \ disasters."
+  subtopics:
+  - name: Geodetics
+    url: https://www.earthdata.nasa.gov/topics/solid-earth/geodetics
+    description: The scientific discipline that deals with the measurement and representation
+      of the earth, its gravitational field and geodynamic phenomena (polar motion,
+      earth tides, and tectonic motion) in three-dimensional, time-varying space.
+    subtopics:
+    - name: Coordinate Reference System
+      url: https://www.earthdata.nasa.gov/topics/solid-earth/geodetics/coordinate-reference-system
+      description: Coordinate systems enable geographic datasets to use common locations
+        for integration. A coordinate system is a reference system used to represent
+        the locations of geographic features, imagery, and observations, such as Global
+        Positioning System (GPS) locations, within a common geographic framework.
+      subtopics:
+      - name: Global Coordinate Reference System
+        url: https://www.earthdata.nasa.gov/topics/solid-earth/geodetics/coordinate-reference-system/global-coordinate-reference-system
+        description: Coordinate systems enable geographic datasets to use common locations
+          for integration. A coordinate system is a reference system used to represent
+          the locations of geographic features, imagery, and observations, such as
+          Global Positioning System (GPS) locations, within a common geographic framework.
+          A global or spherical coordinate system such as latitude-longitude are often
+          referred to as geographic coordinate systems.
+        subtopics: []
+  - name: Geomorphic Landforms/Processes
+    url: https://www.earthdata.nasa.gov/topics/solid-earth/geomorphic-landforms-processes
+    description: The science that treats the general configuration of the Earths surface,
+      specifically the study of the classification, description, nature, origin, and
+      development of present landforms and their relationships to underlying structures,
+      and of the history of geologic changes as recorded by these surface features.
+    subtopics: []
+  - name: Gravity/Gravitational Field
+    url: https://www.earthdata.nasa.gov/topics/solid-earth/gravity-gravitational-field
+    description: Dealing with the determination of the size and shape of the earth,
+      the Earths gravitational field, and the location of points fixed to the Earths
+      crust in an Earth-referred coordinate system.
+    subtopics:
+    - name: Control Surveys
+      url: https://www.earthdata.nasa.gov/topics/solid-earth/gravity-gravitational-field/control-surveys
+      description: Pertaining to the base surveys run in order to normalize data collected
+        in later surveys so that gravitational anomalies can be found.
+      subtopics: []
+    - name: Crustal Motion
+      url: https://www.earthdata.nasa.gov/topics/solid-earth/gravity-gravitational-field/crustal-motion
+      description: Pertaining to the use of gravitational data in order to determine
+        the relative motions of the Earths crustal plates.
+      subtopics:
+      - name: Isostatic Adjustments
+        url: https://www.earthdata.nasa.gov/topics/solid-earth/gravity-gravitational-field/crustal-motion/isostatic-adjustments
+        description: The rise of land masses that were depressed by the huge weight
+          of ice sheets during the last glacial period, through a process known as
+          isostasy.
+        subtopics: []
+    - name: Gravitational Field
+      url: https://www.earthdata.nasa.gov/topics/solid-earth/gravity-gravitational-field/gravitational-field
+      description: Pertaining to the measurement, strength, size, etc. of the Earths
+        gravitational field.
+      subtopics: []
+    - name: Gravity
+      url: https://www.earthdata.nasa.gov/topics/solid-earth/gravity-gravitational-field/gravity
+      description: The natural phenomenon by which physical bodies appear to attract
+        each other with a force proportional to their masses. It is most commonly
+        experienced as the agent that gives weight to objects with mass and causes
+        them to fall to the ground when dropped. The phenomenon of gravitation itself,
+        however, is a byproduct of a more fundamental phenomenon described by general
+        relativity, which suggests that spacetime is curved according to the energy
+        and momentum of whatever matter and radiation are present.
+      subtopics: []
+    - name: Satellite Orbits/Revolution
+      url: https://www.earthdata.nasa.gov/topics/solid-earth/gravity-gravitational-field/satellite-orbits-revolution
+      description: Pertaining to the determination of variations in orbital paths
+        of man-made satellites, and to the calculation of the orbits of future satellites.
+      subtopics: []
+- name: Sun-Earth Interactions
+  url: https://www.earthdata.nasa.gov/topics/sun-earth-interactions
+  description: "The Sun influences a variety of physical and chemical processes in\
+    \ Earth\u2019s atmosphere. NASA continually monitors solar radiation and its effect\
+    \ on the planet.The effects of the Suns variability are evident in a variety of\
+    \ physical and chemical processes in the upper layers of Earths atmosphere. The\
+    \ Sun continuously produces a solar wind made of charged particles that flows\
+    \ outward into the solar system. When the solar wind reaches Earth\u2019s magnetic\
+    \ field (called the magnetosphere), it can cause magnetic reconnection, an explosive\
+    \ process that allows charged particles from space to accelerate into the atmosphere.\
+    \ Glowing auroras near Earth\u2019s poles are the result of billions of individual\
+    \ collisions of solar wind particles, lighting up the planet\u2019s magnetic field\
+    \ lines . Observing auroras \u2014 and discovering what causes them to change\
+    \ over time \u2014 gives scientists insight into how our planets magnetosphere\
+    \ reacts to the space weather near Earth. NASA solar spectral irradiance data\
+    \ include measurements of radiation coming from the Sun (solar irradiance in various\
+    \ spectral regions) as well as solar particle fluxes and their effects on Earth\u2019\
+    s magnetosphere."
+  subtopics:
+  - name: Solar Activity
+    url: https://www.earthdata.nasa.gov/topics/sun-earth-interactions/solar-activity
+    description: Any change in the suns appearance or behavior. The suns activity
+      is described as being very low, low, moderate, high or very high. Solar activity
+      changes over a period of, on average, 11 years. At solar maximum, the solar
+      activity is high and so too the Extreme Ultraviolet (EUV) radiation output which
+      affects the ionosphere. At solar minimum, the opposite is true.
+    subtopics:
+    - name: Solar Irradiance
+      url: https://www.earthdata.nasa.gov/topics/sun-earth-interactions/solar-activity/solar-irradiance
+      description: "Solar irradiance at the top of the atmosphere on a plane normal\
+        \ to the incident\xBFradiation, and at the mean distance of the Earth from\
+        \ the Sun. Solar irradiance\xBFis also referred to as the solar constant.\
+        \ In satellite remote sensing, the\xBFsolar irradiance is used as an onboard\
+        \ calibration of visible band sensors.\xBFSome climate studies suggest that\
+        \ small variations in the solar irradiance\xBFassociated with solar activity\
+        \ over days to decades may have an effect the\xBFEarths climate.\xBF The intensity\
+        \ of the suns radiation at different wavelengths. The radiation is generally\
+        \ given in terms of solar constant S, defined in terms of flux of total radiation\
+        \ received outside the earths atmosphere per unit area at mean sun earth distance.,\
+        \ and has the value S = 1.34 X 10*6 ergs cm*-2 sec*-1."
+      subtopics: []
+    - name: Solar Ultraviolet Emissions
+      url: https://www.earthdata.nasa.gov/topics/sun-earth-interactions/solar-activity/solar-ultraviolet-emissions
+      description: Radiation with wavelengths roughly between 200 and 400 nanometers.
+        These wavelengths are shorter than those which characterize visible light.
+        Observations from satellites in the UV and extreme UV (EUV) wavelengths have
+        demonstrated the suns UV variability over short time scales of days and weeks.
+        UV variability is linked to solar magnetic activity phenomena such as flares
+        and plages. Studies of the UV and EUV irradiance variability may have indicated
+        influences on the Earths climate dynamics.
+      subtopics: []
+- name: Terrestrial Hydrosphere
+  url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere
+  description: "The terrestrial hydrosphere includes water on the land surface and\
+    \ underground in the form of lakes, rivers, and groundwater along with total water\
+    \ storage.Water is necessary for sustaining life on Earth and helps connect Earths\
+    \ systems. The terrestrial hydrosphere includes water on the land surface and\
+    \ underground in the form of lakes, rivers, and groundwater along with total water\
+    \ storage. NASA tracks nearly every aspect of the water cycle \u2014 where precipitation\
+    \ is falling, the amount of water soaking into the soil, how water moves in rivers\
+    \ and lakes, how its taken up by plants and used by animals, and the amount of\
+    \ water evaporating back into the atmosphere. NASA data provide information on\
+    \ the terrestrial hydrosphere, including watershed extent, water quality, changes\
+    \ in surface and groundwater, and water surface elevation. In addition, NASA hydrospheric\
+    \ model data provide information on runoff and evapotranspiration."
+  subtopics:
+  - name: Glaciers/Ice Sheets
+    url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/glaciers-ice-sheets
+    description: Glaciers are masses of land ice, formed by the further recrystallization
+      of firn, flowing continuously from higher to lower elevations. Ice sheets are
+      a continuous sheet of land ice that covers a very large area and moves outward
+      in many directions. This type of ice mass is so thick as to mask the land surface
+      contours, in contrast to the smaller and thinner highland ice. The continental
+      glacier of Greenland is sometimes called the Inland Ice. This term is often
+      used to describe the great ice masses that characterized the ice ages.
+    subtopics:
+    - name: Glacier Mass Balance/Ice Sheet Mass Balance
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/glaciers-ice-sheets/glacier-mass-balance-ice-sheet-mass-balance
+      description: Mass balance describes the net gain or loss of snow and ice through
+        a given year. It is usually expressed in terms of water gain or loss.
+      subtopics: []
+    - name: Glacier Motion/Ice Sheet Motion
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/glaciers-ice-sheets/glacier-motion-ice-sheet-motion
+      description: The rate of flow of the glacier/ice sheet over a period of time.
+      subtopics: []
+  - name: Ground Water
+    url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/ground-water
+    description: Ground water in its broadest sense includes all subsurface water
+      whether in its liquid, solid or gaseous state, provided it is not chemically
+      combined with the minerals present. In practice, it is all subsurface water
+      that participates in the hydrological cycle.
+    subtopics:
+    - name: Ground Water Processes/Measurements
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/ground-water/ground-water-processes-measurements
+      description: Describes how ground water is measured and the various ground water
+        processes throughout the ground water system.
+      subtopics:
+      - name: Aquifer Recharge
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/ground-water/ground-water-processes-measurements/aquifer-recharge
+        description: The primary method that water enters an aquifer.
+        subtopics: []
+      - name: Land Subsidence
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/ground-water/ground-water-processes-measurements/land-subsidence
+        description: Pertaining to the process by which the land surface sinks over
+          an aquifer as water is pumped out of it.
+        subtopics: []
+  - name: Snow/Ice
+    url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/snow-ice
+    description: Pertaining to the study of frozen water over the Earths surface.
+    subtopics:
+    - name: Freeze/Thaw
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/snow-ice/freeze-thaw
+      description: Pertaining to the measurement, rates, geographical extent of freezing,
+        and melting of snow and ice cover.
+      subtopics: []
+    - name: Lake Ice
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/snow-ice/lake-ice
+      description: Pertaining to the measurement, and analysis to ice formation on
+        inland bodies of salt or fresh water.
+      subtopics: []
+    - name: Snow Cover
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/snow-ice/snow-cover
+      description: Pertaining to the extent, depth, and longevity of snow pack.
+      subtopics: []
+    - name: Snow Melt
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/snow-ice/snow-melt
+      description: Pertaining to the rate and extent of melting snow pack(s).
+      subtopics: []
+  - name: Surface Water
+    url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water
+    description: Pertains to all water present above the substrate or soil surface
+      including water contained in an ocean, river, stream, lake, pond, lagoon, or
+      impoundment reservoir.
+    subtopics:
+    - name: Surface Water Features
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-features
+      description: Water features that exist on the surface of the Earth.
+      subtopics:
+      - name: Drainage Basins
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-features/drainage-basins
+        description: An area of land where surface water from rain, melting snow,
+          or ice converges to a single point at a lower elevation, usually the exit
+          of the basin, where the waters join another waterbody, such as a river,
+          lake, reservoir, estuary, wetland, sea, or ocean.
+        subtopics: []
+      - name: Lakes/Reservoirs
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-features/lakes-reservoirs
+        description: An area of land where surface water from rain, melting snow,
+          or ice converges to a single point at a lower elevation, usually the exit
+          of the basin, where the waters join another waterbody, such as a river,
+          lake, reservoir, estuary, wetland, sea, or ocean.
+        subtopics: []
+      - name: Rivers/Streams
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-features/rivers-streams
+        description: 'River: A large, natural freshwater surface stream having a permanent
+          seasonal flow and moving toward a sea, lake, or another river in a definite
+          channel. Stream: A body of running water moving under the influence of gravity
+          to lower levels in a narrow, clearly defined natural channel.'
+        subtopics: []
+      - name: Wetlands
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-features/wetlands
+        description: Wetlands is a term for a broad group of wet habitats. They are
+          transitional lands between terrestrial and aquatic ecosystems where the
+          lands may be permanently or intermittently water covered.
+        subtopics: []
+    - name: Surface Water Processes/Measurements
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-processes-measurements
+      description: Surface-water hydrology is a field that encompasses all surface
+        waters of the globe (overland flows, rivers, lakes, wetlands, estuaries, oceans,
+        etc.). This is a subset of the hydrologic cycle that does not include atmospheric,
+        and ground waters. Surface-water hydrology relates the dynamics of flow in
+        surface-water systems (rivers, canals, streams, lakes, ponds, wetlands, marshes,
+        arroyos, oceans, etc.). This includes the field measurement of flow (discharge);
+        the statistical variability at each setting; floods; drought susceptibility
+        and the development of the levels of risk; and the fluid mechanics of surface
+        waters.
+      subtopics:
+      - name: Discharge/Flow
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-processes-measurements/discharge-flow
+        description: 'In hydrology, discharge is the volume rate of water flow that
+          is transported through a given cross-sectional area.(Buchanan, T.J. and
+          Somers, W.P., 1969, Discharge Measurements at Gaging Stations: U.S. Geological
+          Survey Techniques of Water-Resources Investigations, Book 3, Chapter A8,
+          p. 1.) It includes any suspended solids (e.g. sediment), dissolved chemicals
+          (e.g. CaCO3(aq)), or biologic material (e.g. diatoms) in addition to the
+          water itself.'
+        subtopics: []
+      - name: Drainage
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-processes-measurements/drainage
+        description: The pattern followed by the waters of an area as they pass or
+          flow off in surface streams.
+        subtopics: []
+      - name: Floods
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-processes-measurements/floods
+        description: The condition that occurs when water overflows the natural or
+          artificial confines of a stream or other body of water, or accumulates by
+          drainage over low-lying areas.
+        subtopics: []
+      - name: Runoff
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-processes-measurements/runoff
+        description: The measurement of the flow of water in a stream, usually expressed
+          in cubic feet per second; the net effect of storms, accumulation, transpiration,
+          melt, seepage, evaporation, and percolation.
+        subtopics:
+        - name: Total Runoff
+          url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-processes-measurements/runoff/total
+          description: The total runoff is equal to the total precipitation less the
+            losses caused by evapotranspiration, storage, and other such abtractions.
+          subtopics: []
+      - name: Total Surface Water
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/surface-water/surface-water-processes-measurements/total-surface
+        description: All bodies of water on the surface of the Earth.
+        subtopics: []
+  - name: Water Budget
+    url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/water-budget
+    description: A budget of the incoming and outgoing water from a region, including
+      rainfall, evaporation, runoff, and seepage; often used to estimate evapotranspiration.
+    subtopics:
+    - name: Hydrologic Regime
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/water-budget/hydrologic-regime
+      description: Spatial and temporal variations of the components in a water budget.
+      subtopics: []
+  - name: Water Quality/Water Chemistry
+    url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/water-quality-water-chemistry
+    description: Water quality refers to the physical, chemical, and biological characteristics
+      of water with respect to its suitability for a particular use. Water chemistry
+      refers to the chemical characteristics of water.
+    subtopics:
+    - name: Contaminants
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/water-quality-water-chemistry/contaminants
+      description: Foreign agents that are present in water which may produce a physical
+        or chemical change.
+      subtopics:
+      - name: Harmful Algal Blooms (HAB)
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/water-quality-water-chemistry/contaminants/harmful-algal-blooms-hab
+        description: "Occurs when colonies of algae\u2014simple photosynthetic organisms\
+          \ that live in the sea and freshwater\u2014grow out of control while producing\
+          \ toxic or harmful effects on people, fish, shellfish, marine mammals, and\
+          \ birds. The human illnesses caused by HABs, though rare, can be debilitating\
+          \ or even fatal. HABs have been reported in every U.S. coastal state, and\
+          \ their occurrence may be on the rise. HABs are a national concern because\
+          \ they affect not only the health of people and marine ecosystems, but also\
+          \ the health of local and regional economies."
+        subtopics: []
+      - name: Pesticides
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/water-quality-water-chemistry/contaminants/pesticides
+        description: Chemical compounds that are used to kill pests, including insects,
+          rodents, fungi and unwanted plants (weeds). Pesticides are used in public
+          health to kill vectors of disease, such as mosquitoes, and in agriculture,
+          to kill pests that damage crops. By their nature, pesticides are potentially
+          toxic to other organisms, including humans, and need to be used safely and
+          disposed of properly.
+        subtopics: []
+      - name: Sewage Overflows
+        url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/water-quality-water-chemistry/contaminants/sewage-overflows
+        description: A condition in which untreated sewage is discharged from a sanitary
+          sewer into the environment prior to reaching sewage treatment facilities.
+        subtopics: []
+    - name: Nutrients
+      url: https://www.earthdata.nasa.gov/topics/terrestrial-hydrosphere/water-quality-water-chemistry/nutrients
+      description: Elements essential for growth and survival of a given organism.
+        Directly or indirectly, nutrients have roles in metabolism that no other nutrients
+        fulfills.
+      subtopics: []

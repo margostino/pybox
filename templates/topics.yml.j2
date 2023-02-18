@@ -1,3 +1,20 @@
 url: {{ topics_url }}
 rss: {{ topics_rss }}
 description: {{ topics_description }}
+
+topics:{% for topic in topics %}
+    - name: {{ topic.name }}
+      url: {{ topic.url }}
+      rss: {{ topic.rss }}
+      description: >
+        {{ topic.description }}
+      subtopics:{% for subtopic in topics.subtopics %}
+        - name: {{ subtopic.name }}
+          url: {{ subtopic.url }}
+          rss: {{ subtopic.rss }}
+          description: >
+            {{ subtopic.description }}
+          subtopics:{% for subtopic in subtopic.subtopics %}
+          {% endfor %}
+      {% endfor %}
+{% endfor %}
