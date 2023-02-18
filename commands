@@ -1,0 +1,5 @@
+scrapy startproject tutorial
+scrapy genspider nasa https://www.earthdata.nasa.gov/topics
+scrapy crawl nasa
+
+scrapy shell https://www.earthdata.nasa.gov/topics
