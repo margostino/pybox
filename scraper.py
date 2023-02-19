@@ -44,9 +44,10 @@ def parse(url: str) -> BeautifulSoup:
 
 def new_topic():
     return {
-        "name": "",
-        "url": "",
-        "description": "",
+        "name": None,
+        "url": None,
+        "rss": None,
+        "description": None,
         "subtopics": []
     }
 
@@ -55,6 +56,10 @@ def parse_topic(topic, topic_element):
     topic_url = f"{BASE_URL}{topic_element['href']}"
     path = urlparse(topic_url).path
     topic_html = parse(topic_url)
+
+    rss_href = topic_html.find_all('a', href=lambda x: x is not None and "/topics/rss/" in x)[0]['href']
+    topic_rss = f"{BASE_URL}{rss_href}"
+
     headline_element = [el.text for el in topic_html.find_all('div', attrs={'class': 'hero-description'})]
     headline = headline_element[0] if len(headline_element) > 0 else None
     description_element = [el.text for el in
@@ -63,11 +68,12 @@ def parse_topic(topic, topic_element):
     description = description.replace("\n", " ").strip()
     full_description = f"{headline}\n{description}" if headline is not None else f"{description}"
 
-    full_description = full_description.strip().replace("\n", "").replace("\\", "").replace("'", "")
+    full_description = full_description.strip().replace("\n", "").replace("\\", "").replace("'", "").replace("\'", "")
     full_description = " ".join(full_description.split())
 
     topic['name'] = topic_element.text
     topic['url'] = topic_url
+    topic['rss'] = topic_rss
     topic['description'] = full_description
 
     # topic['subtopics'] = parse()
@@ -101,5 +107,5 @@ for topic_element in topics_list:
     # )
 
 with open('topics.yml', 'w') as file:
-    yml_dump = yaml.dump(topics, file, sort_keys=False)
+    yml_dump = yaml.dump(topics, file, indent=4, sort_keys=False, default_flow_style=False, allow_unicode=True, encoding=None)
     print(yml_dump)
