@@ -18,6 +18,14 @@ uvicorn = "^0.27.0.post1"
 django = "^5.0.1"
 djangorestframework = "^3.14.0"
 django-cors-headers = "^4.3.1"
+matplotlib = "^3.9.1"
+selenium = "^4.22.0"
+webdriver-manager = "^4.0.1"
+python-dotenv = "^1.0.1"
+pandas = "^2.2.2"
+bs4 = "^0.0.2"
+pydantic = "2.8.2"
+weaviate-client = "^4.6.5"
 
 
 [build-system]
