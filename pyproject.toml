@@ -26,6 +26,7 @@ pandas = "^2.2.2"
 bs4 = "^0.0.2"
 pydantic = "2.8.2"
 weaviate-client = "^4.6.5"
+openai = "^1.43.0"
 
 
 [build-system]
