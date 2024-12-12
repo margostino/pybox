@@ -137,6 +137,6 @@ class JobScraper:
 
 
 if __name__ == "__main__":
-    scraper = JobScraper(keywords="Software Engineer", location="europe")
+    scraper = JobScraper(keywords="Software Engineer", location="united kingdom")
     scraper.scrape()
     scraper.generate_job_recommendations()
